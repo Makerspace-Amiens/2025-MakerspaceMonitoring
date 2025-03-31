@@ -14,7 +14,17 @@ Avant de commencer à se lancer dans la recherche de logiciel et de capteur il e
 
 ![Image_NUC](images/chemin_info.png)
 
-Un ensemble de capteur sera installé dans les salles pour collecter des informatinos telles que la température et l'humidité. Une fois la donnée collectée il faudra l'envoyer à un serveur qui traitera l'information à l'aide d'une distribution de domotique, pour l'installation de la distribution OpenHab [**Cliquez ici**](config_Mini_PC.md). Enfin on choisit si on veut afficher cette information ou si on veut en faire une action dans le makerspace, par exemple baisser le chauffage si il fait trop chaud.
-Les composants seront interconnectés à l'aide du wifi du Makerspace qui nous permet de diffuser nos données dans tout l'étage.
+Un ensemble de capteur sera installé dans les salles pour collecter des informations telles que la température et l'humidité. Une fois la donnée collectée il faudra l'envoyer à un serveur qui traitera l'information à l'aide d'une distribution de domotique, pour l'installation de la distribution OpenHab [**Cliquez ici**](config_Mini_PC.md). Enfin on choisit si on veut afficher cette information ou si on veut en faire une action dans le makerspace, par exemple baisser le chauffage si il fait trop chaud.
+Les composants seront interconnectés à l'aide du wifi du Makerspace qui nous permet de diffuser nos données dans tout l'étage. 3 objectifs sont visibles dans le projet: l'installation doit être sécurisée pour éviter tout accident ou vol. Elle doit être aussi confortable autant pour les étudiants utilisant le système que les particpants du Makerspace voulant modifier le projet à l'aide de notre documentation. Et enfin le projet doit être économique à la fois dans l'objectif du projet (tracker des données pour faire des économies) que dans la réalisation (chaque projet a un budget de 250euros).
 
 ![Image_NUC](images/enjeu.png)
+
+Comme vous pouvez le constater sur le schéma dans l'introduction le projet se scinde en 3 grandes parties qui seront présentes par la suite dans ce dossier, vous retrouverez dans chaque partie les différentes solutions, nos réflexions, une explication de nos choix et comment utilisé les technologies de notre projet.
+
+- [**Les capteurs**](capteur.md)
+
+- [**Le serveur**](config_Mini_PC.md)
+
+- [**OpenHab**](initialisation_OpenHAB.md)
+
+- [**Affichage**](affichage.md)
