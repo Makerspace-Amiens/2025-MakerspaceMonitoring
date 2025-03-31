@@ -12,7 +12,7 @@ Bienvenue dans la documentation du projet OpenHab. Ce site a pour but de fournir
 
 ## À propos du Projet
 
-Le monitoring (surveillance en français) est un Ensemble de techniques permettant d'analyser, contrôler et surveiller un lieu donné. Dans notre cas on a décidé d'appliquer cette stratégie au MakerSpace de Unilasalle-Amiens pour rendre cet étage intelligent à l'aide de l'électronique.
+Le monitoring (surveillance en français) est un Ensemble de techniques permettant d'analyser, contrôler et surveiller un lieu donné. Dans notre cas on a décidé d'appliquer cette stratégie au MakerSpace de Unilasalle-Amiens pour rendre cet étage intelligent à l'aide de l'électronique et de solution Domotique.
 
 ## Poster
 
