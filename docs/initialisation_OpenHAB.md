@@ -1,4 +1,4 @@
-# Configuration OpenHAB 🏠
+# Initialisation OpenHAB 🏠
 
 ![Logo OpenHAB](images/OpenHAB_Logo.png)
 
