@@ -4,33 +4,38 @@ nav_order: 1
 title: Configuration sur Tasmotta
 ---
 
-# Configuration Tasmotta
+# Tasmota : Une Alternative Libre pour vos Objets Connectés
 
-Ici, nous développerons un pièce essentielle du projet qui nous a permis de relier pleythor de capteur à notre Projet. Tamostta
+![Illustration vectorielle colorée avec un fond blanc, montrant un atelier équipé pour un projet de conception mécanique, électronique et informatique](images/tasmotta.svg)
 
-![Illustration vectorielle colorée avec un fond blanc, montrant un atelier équipé pour un projet de conception mécanique, électronique et informatique](images/illustration.png)
+## Qu'est-ce que Tasmota ?
 
-## À propos du Projet
+Tasmota est un **logiciel gratuit et open-source** qui permet de contrôler certains objets connectés, comme des **ampoules, prises intelligentes et capteurs**, sans dépendre d’Internet ou d’une application du fabricant.  
+Il remplace le programme d’origine des appareils utilisant une puce **ESP8266 ou ESP32**, offrant ainsi **plus de liberté, de confidentialité et de sécurité**.
 
-Décrivez ici en quelques lignes l'objectif et l'aperçu général de votre projet. Quel est son but ? À qui est-il destiné ? Quels problèmes cherche-t-il à résoudre ?
+## Pourquoi utiliser Tasmota ?
 
-## Poster
+- **Contrôle local** : Vos appareils fonctionnent sans connexion à un serveur externe, ce qui améliore la **sécurité et la confidentialité**.
+- **Flexibilité** : Compatible avec **Home Assistant, MQTT, Domoticz**, et bien d’autres solutions domotiques.
+- **Indépendance** : Évite la dépendance aux applications et serveurs propriétaires, qui peuvent être fermés ou collecter vos données.
+- **Personnalisation avancée** : Permet d’adapter le comportement des appareils selon vos besoins.
 
-Ici vous publierez le poster de votre projet.
+## Utiliser Tasmota avec openHAB
 
-![Poster projet](images/poster.jpg)
+Tasmota est entièrement **compatible avec openHAB**, une plateforme domotique open-source qui centralise et automatise la gestion de votre maison intelligente.
 
-## Vidéo
+### Intégration avec notre projet
 
-Ici vous publierez la vidéo de votre projet. 
-- Moins de 1min30
-- Présentation du projet 
-- Des explication du fonctionnement du projet
-- Des vues du projet / Prototype / Application etc... 
-- Des plans du fonctionnement (même basique ou des éléments séparés)
-- Une conclusion
-- Si en stockage local : <50mo
+Dans notre projet, nous utilisons un **ESP32** sur lequel nous **installons le firmware Tasmota**. Ce microcontrôleur est connecté à un **capteur AM2302**, un capteur de **température et d'humidité de précision**. Une fois le firmware Tasmota installé, l’ESP32 peut récupérer les données mesurées par l’AM2302 et les transmettre via **MQTT** à un broker, qui les relaie ensuite à **openHAB** pour affichage et exploitation.
 
-<video src="images/intro_amiens.mp4" controls title="Title"  style="width: 100%;"></video>
+### Schéma de communication
+
+📡 **Capteur (AM2302) → ESP32 (Firmware Tasmota) → MQTT Broker → openHAB**
+
+1. **Le capteur AM2302 mesure la température et l'humidité** avec précision.
+2. **L’ESP32, avec le firmware Tasmota installé, récupère ces données** et les envoie au broker MQTT.
+3. **Le broker MQTT transmet les données à openHAB**, qui les affiche et permet d’automatiser des actions.
+
+Avec **Tasmota installé sur ESP32 et openHAB**, nous avons une solution **locale, sécurisée et personnalisable** pour gérer nos capteurs et automatiser notre environnement connecté ! 🚀
 
 ---
