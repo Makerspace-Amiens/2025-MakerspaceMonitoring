@@ -1,6 +1,6 @@
 # Configuration OpenHAB 🏠
 
-![Logo OpenHAB](docs/images/OpenHAB_Logo.png)
+![Logo OpenHAB](images/OpenHAB_Logo.png)
 
 [OpenHAB](https://www.openhab.org/) (Open Home Automation Bus) est une plateforme open-source pour l'automatisation domestique. Une fois installé et accessible via le dashboard, voici comment configurer les fonctionnalités de base d'OpenHAB.
 
@@ -19,9 +19,9 @@ Lors de la première connexion, OpenHAB vous guidera à travers une configuratio
 
 - **Étapes :**
   1. Sélectionner la langue.
-![Logo OpenHAB](docs/images/OpenHAB_langue.png)
+![Logo OpenHAB](images/OpenHAB_langue.png)
   2. Choisir un mot de passe administrateur.
-![Logo OpenHAB](docs/images/OpenHAB_config.png)
+![Logo OpenHAB](images/OpenHAB_config.png)
   3. Configurer les paramètres régionaux (fuseau horaire, unité de mesure, etc.).
 
 ## 3. Ajout de Choses (Things) 📱
@@ -30,7 +30,7 @@ Les "Things" dans OpenHAB représentent les dispositifs physiques que vous souha
 
 - **Étapes :**
   1. Aller dans **Configuration** > **Things**.
-![Logo OpenHAB](docs/images/OpenHAB_thing.png)
+![Logo OpenHAB](images/OpenHAB_thing.png)
   2. Cliquer sur le bouton **+** pour ajouter une nouvelle chose.
   3. Sélectionner le type de dispositif (par exemple, Philips Hue, Z-Wave, etc.).
   4. Suivre les instructions spécifiques au dispositif pour l'ajouter.
@@ -41,6 +41,6 @@ OpenHAB propose plusieurs dashboards pour visualiser et contrôler vos dispositi
 
 - **Étapes :**
   1. Accéder aux pages via le menu principal
-  ![Logo OpenHAB](docs/images/OpenHAB_page.png)
+  ![Logo OpenHAB](images/OpenHAB_page.png)
   2. Personnaliser les dashboards en ajoutant des widgets et des graphiques.
-  ![Logo OpenHAB](docs/images/OpenHAB_page_config.png)
+  ![Logo OpenHAB](images/OpenHAB_page_config.png)
