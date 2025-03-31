@@ -29,6 +29,4 @@ Comme vous pouvez le constater sur le schéma dans l'introduction le projet se s
 
 - [**Le serveur**](config_Mini_PC.md)
 
-- [**OpenHab**](initialisation_OpenHAB.md)
-
 - [**Affichage**](affichage.md)
