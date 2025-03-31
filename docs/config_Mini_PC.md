@@ -1,4 +1,6 @@
-# Configuration du NUC 🖥️
+# Configuration du Mini-PC (NUC) 🖥️
+
+![Image_NUC](images/NUC_image.png)
 
 Un NUC (Next Unit of Computing) est un mini-PC compact développé par Intel. Il offre des performances comparables à un ordinateur de bureau tout en occupant très peu d'espace. Les NUC sont souvent utilisés pour le multimédia, les serveurs domestiques et les applications industrielles.
 
