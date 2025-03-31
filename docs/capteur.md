@@ -4,7 +4,18 @@ nav_order: 1
 title: Configuration sur Tasmotta
 ---
 
-# Tasmota : Une Alternative Libre pour vos Objets Connectés
+# Les capteurs
+
+Les capteurs sont un élément essentiel de notre système, aucune donnée ne peut être collectée et toute action ou affichage devient impossible. Il est alors important de comprendre l'utilité des capteurs, lesquels choisir et comment les utiliser.
+
+## L'utilité des capteurs
+
+Tout d'abord un capteur n'est pas magique, si vous posez une sonde de température dans votre chambre vous n'aurez aucune donnée qui sortira. Un capteur est un processus qui transforme un phénomène physico-chimique en une grandeur numérique électrique. Cela signifie que le phénomène peut être représenté et transporté dans de systèmes informatiques. Pour extraire la donnée de nos capteurs il faudra aussi lui donner un code qui lui servira de traduction de notre demande. Imaginez simplement que votre code dit au capteur (de température dans notre exemple) "Bonjour j'aurai besoin que tu me donnes la température actuelle de la pièce et que tu actualises l'information toutes les 5 secondes". 
+
+![Image_NUC](images/explaincaptor.png)
+
+
+## Tasmota : Une Alternative Libre pour vos Objets Connectés
 
 ![Illustration vectorielle colorée avec un fond blanc, montrant un atelier équipé pour un projet de conception mécanique, électronique et informatique](images/tasmotta.svg)
 
