@@ -14,7 +14,7 @@ Cette première partie du rapport a pour objectif de contextualiser le projet, d
 ## 📌 Contenu de cette section
 
 - **Contexte du projet**  
-  Présentation du MakerSpace, ses particularités et les motivations à l’origine du projet de monitoring domotique.
+  Définition du monitoring, présentation du MakerSpace ainsi que les raisons derrière l’implémentation du système de monitoring domotique.
 
 - **Problématique**  
   Identification des besoins liés à la gestion et à la supervision de l’espace : monitoring environnemental, affichage des informations, etc.
