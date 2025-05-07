@@ -28,5 +28,3 @@ Cette première partie du rapport a pour objectif de contextualiser le projet, d
 - **Organisation du rapport**  
   Aperçu global de la structure du document pour guider la lecture et la compréhension du projet.
 
----
-
