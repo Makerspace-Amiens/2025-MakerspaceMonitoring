@@ -7,7 +7,7 @@ has_children: true
 
 # Introduction
 
-Bienvenue dans la section **Introduction** du rapport de projet sur le **Système domotique pour le MakerSpace**.
+Bienvenue dans la section **Introduction** du rapport de projet sur le **Monitoring du MakerSpace**.
 
 Cette première partie du rapport a pour objectif de contextualiser le projet, d’en exposer les enjeux et de présenter la structure générale du document. Vous y trouverez :
 
