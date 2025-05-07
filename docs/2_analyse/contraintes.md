@@ -9,7 +9,7 @@ nav_order: 9
 
 Notre projet est soumis à plusieurs **contraintes techniques et organisationnelles** qui doivent être prises en compte.
 
-1. **🔄 Utilisation de solutions open-source** : Le système doit être basé sur des plateformes domotiques open-source. L'**open source** désigne un type de licence logicielle qui permet aux utilisateurs d'accéder, de modifier et de distribuer librement le code source du logiciel. Cela garantit la transparence, la flexibilité et l'extensibilité du système.
+1. **🔄 Utilisation de solutions open-source** : Le système doit être basé sur des plateformes domotiques open-source.
 
 2. **📡 Connectivité** : Les capteurs et les dispositifs doivent être capables de communiquer via des protocoles standardisés tels que le Wi-Fi et MQTT, assurant une transmission fiable et sécurisée des données.
 
