@@ -14,3 +14,5 @@ Le [MakerSpace](presentation_makerspace.md) est un espace partagé utilisé par 
 Ce projet vise à combler ce manque en installant un système de monitoring domotique, permettant de collecter des données en temps réel et de faciliter la gestion de l’environnement pour les utilisateurs.
 
 La **domotique** fait référence à l'utilisation de technologies pour automatiser et contrôler les systèmes et équipements d'un espace, comme l’éclairage, le chauffage ou la gestion de l’énergie, souvent via des dispositifs connectés.
+
+---
