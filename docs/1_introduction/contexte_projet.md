@@ -14,5 +14,3 @@ Actuellement, il n’y a aucun système pour surveiller les conditions dans les 
 Ce projet propose de changer cela en installant des capteurs connectés et des écrans pour afficher les informations importantes. Tout sera basé sur des outils **open-source**, pour que le système soit simple à modifier et à faire évoluer.
 
 ---
-
-➡️ La prochaine partie présente la **problématique** à laquelle le projet répond.
