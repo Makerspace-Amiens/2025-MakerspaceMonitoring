@@ -30,6 +30,3 @@ Cette première partie du rapport a pour objectif de contextualiser le projet, d
 
 ---
 
-👉 Chaque sous-section est détaillée dans les fichiers correspondants de ce dossier.  
-Bonne lecture !
-
