@@ -17,7 +17,7 @@ Cette première partie du rapport a pour objectif de contextualiser le projet, d
   Présentation du MakerSpace, ses particularités et les motivations à l’origine du projet de monitoring domotique.
 
 - **Problématique**  
-  Identification des besoins liés à la gestion et à la supervision de l’espace : monitoring environnemental, affichage des informations, interopérabilité, etc.
+  Identification des besoins liés à la gestion et à la supervision de l’espace : monitoring environnemental, affichage des informations, etc.
 
 - **Objectifs du projet**  
   Définition des objectifs techniques et fonctionnels à atteindre à travers ce projet.
