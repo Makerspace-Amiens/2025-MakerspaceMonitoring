@@ -12,3 +12,5 @@ Actuellement, le **MakerSpace** manque de solutions pour surveiller et gérer le
 Cela entraîne des difficultés pour optimiser l’utilisation de l’espace, maintenir un environnement confortable et éviter les risques liés à des équipements laissés allumés ou mal régulés.
 
 Ce projet vise à répondre à ce manque en mettant en place un système de **monitoring** des conditions et de **gestion automatisée** des équipements, fournissant des informations en temps réel et permettant une gestion plus efficace du MakerSpace.
+
+---
