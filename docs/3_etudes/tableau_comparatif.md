@@ -7,7 +7,7 @@ nav_order: 15
 
 # ⚖️ Tableau comparatif synthétique
 
-| **Critère**   | **Home Assistant**                                             | **OpenHab**                                                     | **Nymea**                                                 | **Gladys Assistant**                                          |
+| **Critère**   | <img src="../images/HomeAssistant_Logo.png" alt="Logo Home Assistant" width="60"/><br>**Home Assistant** | <img src="../images/OPENHAB_Logo.png" alt="Logo OpenHAB" width="60"/><br>**OpenHAB** | <img src="../images/Nymea_Logo.png" alt="Logo Nymea" width="60"/><br>**Nymea** | <img src="../images/Gladys_Logo.png" alt="Logo Gladys" width="60"/><br>**Gladys Assistant** |
 |---------------|----------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------|---------------------------------------------------------------|
 | **Ergonomie** | ⭐⭐⭐⭐☆<br>Interface claire, configuration assistée.             | ⭐⭐⭐☆<br>Interface moins intuitive, demande des bases techniques. | ⭐⭐⭐⭐☆<br>Interface simple, adaptée aux débutants.          | ⭐⭐⭐⭐☆<br>Interface intuitive, facile à utiliser.               |
 | **Compatibilité** | ⭐⭐⭐⭐⭐<br>Supporte de nombreux protocoles et équipements.     | ⭐⭐⭐⭐⭐ **🔝**<br>Très large compatibilité, très complet.          | ⭐⭐⭐⭐☆<br>Bonne compatibilité, un peu plus limitée.         | ⭐⭐⭐⭐☆<br>Compatible avec la plupart des équipements courants. |
