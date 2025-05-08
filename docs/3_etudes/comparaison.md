@@ -11,8 +11,6 @@ Pour évaluer les différentes solutions domotiques open-source, plusieurs crit�
 
 ## Home Assistant
 
-**Créé en 2013 par Paulus Schoutsen, un développeur néerlandais**, Home Assistant est rapidement devenu l'une des plateformes domotiques open-source les plus populaires.
-
 ### ✅ Avantages :
 - Interface moderne et agréable.
 - Très grande communauté active.
@@ -25,8 +23,6 @@ Pour évaluer les différentes solutions domotiques open-source, plusieurs crit�
 - Dépendance à YAML pour les configurations complexes.
 
 ## OpenHab
-
-**Lancé en 2010 par Kai Kreuzer, un développeur allemand**, OpenHab est l'une des plateformes domotiques open-source historiques. Son architecture modulaire en fait un choix solide pour des déploiements évolutifs et personnalisés.
 
 ### ✅ Avantages :
 - Architecture **modulaire** robuste adaptée à des scénarios complexes.
@@ -43,8 +39,6 @@ Pour évaluer les différentes solutions domotiques open-source, plusieurs crit�
 
 ## Nymea
 
-**Développé à partir de 2016 par une équipe dirigée par Simon Stürz**, Nymea se distingue par sa simplicité et sa légèreté.
-
 ### ✅ Avantages :
 - Interface simple et efficace.
 - Très facile à prendre en main, même pour des débutants.
@@ -57,8 +51,6 @@ Pour évaluer les différentes solutions domotiques open-source, plusieurs crit�
 - Moins de possibilités de personnalisation avancée.
 
 ## Gladys Assistant
-
-**Créé en 2014 par Pierre-Gilles Leymarie**, Gladys est un assistant domotique français centré sur la simplicité et l’efficacité locale.
 
 ### ✅ Avantages :
 - Hébergement local par défaut, respectueux de la vie privée.
