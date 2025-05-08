@@ -5,7 +5,7 @@ parent: 3. Étude des solutions domotiques open-source
 nav_order: 16
 ---
 
-## ✅ Choix de la solution retenue et justification
+# ✅ Choix de la solution retenue et justification
 
 Au départ, notre choix s’orientait vers **Home Assistant**, en raison de sa popularité, de son interface moderne et de sa large communauté. Cependant, un encadrant du MakerSpace nous a fait part de plusieurs difficultés rencontrées lors de son utilisation (intégrations instables, configuration complexe). 
 
