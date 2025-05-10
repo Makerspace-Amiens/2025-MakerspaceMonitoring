@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ✅ test pour voir
-parent: 3. Étude des solutions domotiques open-source
+parent: 6. developpement logiciel
 nav_order: 16
 ---
 
