@@ -4,7 +4,6 @@ title: developpement logiciel
 nav_order: 1
 has_children: true
 ---
-
 # 🧠 6. Développement logiciel
 
 Cette partie explique comment on a codé, configuré et testé le système qui fait tourner toute l'automatisation du MakerSpace.
