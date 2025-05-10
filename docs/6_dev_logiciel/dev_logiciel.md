@@ -1,8 +1,7 @@
 ---
 layout: default
-title: ✅ test pour voir
-parent: 6. developpement logiciel
-nav_order: 16
+title: developpement logiciel
+nav_order: 1
 has_children: true
 ---
 
