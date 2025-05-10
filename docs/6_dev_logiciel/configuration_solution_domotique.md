@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ✅ test pour voir
-parent: dev_logiciel
+parent: developpement logiciel
 nav_order: 1
 ---
 
