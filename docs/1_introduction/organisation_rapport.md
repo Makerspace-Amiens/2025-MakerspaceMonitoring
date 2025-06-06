@@ -8,33 +8,33 @@ nav_order: 6
 # 📚 Organisation du rapport
 
 1. **Introduction**  
-   L'introduction permet de présenter le projet "Monitoring du MakerSpace", ses objectifs, ainsi que le contexte et la portée du travail réalisé dans le cadre de ce projet.
+L'introduction a pour objectif de présenter le projet "Monitoring du MakerSpace", de définir ses objectifs, ainsi que de situer le contexte et la portée du travail réalisé dans le cadre de cette étude.
 
 2. **Analyse des besoins et cahier des charges**  
-   Cette section présente les besoins fonctionnels et techniques du projet, les contraintes imposées, ainsi que les usagers ciblés et leurs attentes.
+Cette section expose les besoins fonctionnels et techniques du projet, les contraintes à respecter, ainsi que les profils des utilisateurs visés et leurs attentes.
 
 3. **Étude des solutions domotiques open-source**  
-   Une analyse des solutions domotiques open-source testées, avec un tableau comparatif des critères tels que la compatibilité, l'ergonomie, et la documentation.
+Cette partie révèle les résultats de l'analyse des solutions domotiques open-source testées, en incluant un tableau comparatif des critères tels que la compatibilité, l'ergonomie, et la documentation.
 
 4. **Conception des capteurs connectés**  
-   Présentation du choix des capteurs et du microcontrôleur (ESP32), avec l'architecture matérielle et les aspects pratiques d'intégration.
+Un point est fait sur le choix des capteurs et du microcontrôleur (ESP32), avec une présentation de l'architecture matérielle et des considérations pratiques d'intégration.
 
 5. **Communication et interconnexion**  
-   Explication des protocoles de communication utilisés pour l'intégration des capteurs au système domotique et des aspects de sécurité et fiabilité.
+Cette section détaille les protocoles de communication utilisés pour l'intégration des capteurs au système domotique, ainsi que les aspects liés à la sécurité et à la fiabilité.
 
 6. **Développement logiciel**  
-   Détail du développement pour la programmation des ESP32, la configuration de la solution domotique, ainsi que les automatisations et tests unitaires.
+Une explication précise est donnée sur le développement du programme pour les ESP32, la configuration de la solution domotique, ainsi que les procédures d'automatisation et de tests unitaires.
 
 7. **Interface de visualisation et affichage**  
-   Conception de l'interface utilisateur pour l'affichage des données de monitoring, avec un focus sur les technologies utilisées et l'ergonomie.
+La conception de l'interface utilisateur pour l'affichage des données de monitoring est abordée, en mettant en avant les technologies utilisées et l'ergonomie.
 
 8. **Déploiement dans le MakerSpace**  
-   Installation des capteurs et des écrans dans le MakerSpace, tests sur site, ajustements et retours des utilisateurs.
+Il est question de l'installation des capteurs et des écrans dans le MakerSpace, des tests effectués sur place, des ajustements nécessaires et des retours des utilisateurs.
 
 9. **Bilan et perspectives**  
-   Un récapitulatif des réussites et difficultés rencontrées, les apprentissages et les possibilités d'évolution du système à l'avenir.
+Un bilan est dressé, mettant en lumière les succès et les obstacles rencontrés, les leçons apprises et les pistes d'amélioration envisagées pour le futur développement du système.
 
 10. **Annexes**  
-   Schémas électroniques, code source, logs, et documentation technique supplémentaire.
+En annexe se trouvent les schémas électroniques, le code source, les logs et toute documentation technique supplémentaire pertinente.
 
 ---
