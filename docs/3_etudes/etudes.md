@@ -7,23 +7,21 @@ has_children: true
 
 # Étude des solutions domotiques open-source
 
-Bienvenue dans la section **Étude des solutions domotiques open-source** du rapport de projet sur le **Monitoring du MakerSpace**.
-
-Cette partie du rapport explore les différentes solutions domotiques open-source disponibles pour le développement du système de monitoring. Vous y trouverez :
+Cette section du rapport examine les diverses solutions domotiques open-source disponibles pour le développement du système de monitoring. Elle inclut les éléments suivants :
 
 ## 📌 Contenu de cette section
 
-- **Présentation des solutions testées**
-  Aperçu des plateformes domotiques open-source testées, telles que Home Assistant, OpenHab, Nymea et Gladys Assistant.
+- **Présentation des solutions testées**  
+  Présentation des plateformes domotiques open-source évaluées, telles que Home Assistant, OpenHab, Nymea et Gladys Assistant.
 
-- **Critères de comparaison**
-  Définition des critères utilisés pour évaluer les solutions, incluant l'ergonomie, la compatibilité, la documentation, la communauté et l'extensibilité.
+- **Critères de comparaison**  
+  Description des critères utilisés pour évaluer les solutions, notamment l'ergonomie, la compatibilité, la documentation, la communauté et l'extensibilité.
 
-- **Tableau comparatif synthétique**
-  Présentation d'un tableau comparatif pour faciliter la comparaison des différentes solutions.
+- **Tableau comparatif synthétique**  
+  Présentation d'un tableau comparatif facilitant la comparaison des différentes solutions.
 
-- **Choix de la solution retenue et justification**
-  Explication du choix final de la solution domotique et les raisons de cette sélection.
+- **Choix de la solution retenue et justification**  
+  Explication du choix final de la solution domotique et les motifs de cette sélection.
 
 ---
 
