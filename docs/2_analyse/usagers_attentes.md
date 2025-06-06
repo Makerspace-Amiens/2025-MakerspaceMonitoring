@@ -7,22 +7,22 @@ nav_order: 10
 
 # 👥 Usagers ciblés et leurs attentes
 
-Le système de monitoring domotique du MakerSpace répond aux besoins de divers utilisateurs :
+Le système de monitoring domotique du MakerSpace a été conçu pour répondre aux besoins de divers utilisateurs, tels que :
 
 1. **👨‍🎓 Étudiants** :
-   - Accès facile aux données environnementales.
-   - Alertes pour conditions anormales.
-   - Interface intuitive pour les automatisations.
+   - Fonctionnalités permettant un accès aisé aux données environnementales.
+   - Alertes en cas de conditions anormales détectées.
+   - Interface intuitive facilitant la mise en place d'automatisations.
 
 2. **👩‍🏫 Encadrants** :
-   - Surveillance fiable pour la sécurité.
-   - Outils pour analyser les données.
-   - Rapports pour évaluer l'utilisation de l'espace.
+   - Surveillance fiable assurant la sécurité des utilisateurs.
+   - Outils d'analyse des données disponibles pour une meilleure compréhension.
+   - Génération de rapports permettant d'évaluer l'utilisation de l'espace dans son ensemble.
 
-4. **👨‍💼 Visiteurs** :
-   - Écrans d'affichage clairs.
-   - Instructions simples pour l'utilisation.
-   - Interface conviviale pour les informations.
+3. **👨‍💼 Visiteurs** :
+   - Écrans d'affichage clairs et bien visibles.
+   - Instructions simples pour une utilisation optimale du système.
+   - Interface conviviale offrant un accès facile aux informations nécessaires.
 
 ---
 
