@@ -22,6 +22,3 @@ Cette section du rapport examine les diverses solutions domotiques open-source d
 
 - **Choix de la solution retenue et justification**  
   Explication du choix final de la solution domotique et les motifs de cette sélection.
-
----
-
