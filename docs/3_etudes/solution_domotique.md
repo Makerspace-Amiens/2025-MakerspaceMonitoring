@@ -7,15 +7,15 @@ nav_order: 13
 
 # 🏠 Présentation des solutions testées
 
-Dans le cadre de ce projet, plusieurs solutions domotiques open-source ont été évaluées pour déterminer celle qui répond le mieux aux besoins du MakerSpace.
+Dans le cadre de ce projet, différentes solutions de domotique open-source ont été examinées afin de déterminer celle qui répond le mieux aux exigences du MakerSpace.
 
-L'**open source** désigne un type de licence logicielle qui permet aux utilisateurs d'accéder, de modifier et de distribuer librement le code source du logiciel. Cela garantit la transparence, la flexibilité et l'extensibilité du système.
+Le concept open source fait référence à une licence logicielle qui permet aux utilisateurs d'accéder, de modifier et de distribuer librement le code source du logiciel. Cela garantit la transparence, la flexibilité et l'extensibilité du système.
 
 ## <img src="../images/HomeAssistant_Logo.png" alt="Logo Home Assistant" width="120"/>
 
 ### Home Assistant
 
-Lancée en 2013 par Paulus Schoutsen, Home Assistant est devenue l'une des plateformes de domotique open-source les plus populaires au monde. Grâce à sa communauté très active, Home Assistant bénéficie d’une documentation exhaustive, d’un système de mises à jour régulières et d’une interface utilisateur moderne et personnalisable.
+Créée en 2013 par Paulus Schoutsen, Home Assistant s'est imposée comme l'une des plateformes de domotique open-source les plus populaires à l'échelle mondiale. Avec une communauté très active, Home Assistant propose une documentation complète, des mises à jour régulières et une interface utilisateur moderne et personnalisable.
 
 **Documentation** : [Documentation Home Assistant](https://www.home-assistant.io/docs/)
 
@@ -25,7 +25,7 @@ Lancée en 2013 par Paulus Schoutsen, Home Assistant est devenue l'une des plate
 
 ### OpenHAB
 
-OpenHAB (Open Home Automation Bus) a vu le jour en 2010, initiée par Kai Kreuzer. Cette solution se distingue par son architecture modulaire qui repose sur Java et OSGi, offrant une grande souplesse dans l’ajout de fonctionnalités. OpenHAB fonctionne avec une vaste gamme de protocoles, de technologies et de matériels, faisant d'elle une solution robuste et pérenne.
+Lancée en 2010 par Kai Kreuzer, OpenHAB (Open Home Automation Bus) se distingue par son architecture modulaire basée sur Java et OSGi, offrant ainsi une grande flexibilité dans l'ajout de fonctionnalités. Compatible avec une large gamme de protocoles, technologies et matériels, OpenHAB est une solution fiable et pérenne.
 
 **Documentation** : [Documentation OpenHab](https://www.openhab.org/docs/)
 
@@ -35,7 +35,7 @@ OpenHAB (Open Home Automation Bus) a vu le jour en 2010, initiée par Kai Kreuze
 
 ### Nymea
 
-Nymea est une plateforme plus récente, développée par une équipe autrichienne avec l’objectif de simplifier la configuration et la gestion des systèmes domotiques. Son approche vise une expérience utilisateur fluide, tant pour les makers que pour les intégrateurs. Nymea propose une interface claire, un noyau léger et une compatibilité croissante avec des capteurs, des actionneurs et des objets connectés.
+Développée plus récemment par une équipe autrichienne, Nymea vise à simplifier la configuration et la gestion des systèmes domotiques. Avec une approche axée sur une expérience utilisateur fluide, Nymea propose une interface claire, un noyau léger et une compatibilité croissante avec une variété de capteurs, actionneurs et objets connectés.
 
 **Documentation** : [Documentation Nymea](https://nymea.io/docs/)
 
@@ -45,7 +45,7 @@ Nymea est une plateforme plus récente, développée par une équipe autrichienn
 
 ### Gladys Assistant
 
-Gladys Assistant est un projet français lancé en 2013 par Pierre-Gilles Leymarie, d’abord comme assistant personnel intelligent, avant d’évoluer vers une solution domotique complète. Le système repose sur Node.js et mise sur la simplicité de déploiement ainsi que sur la confidentialité des données en local. Gladys propose une interface intuitive, un système de scénarios évolué, et une bonne intégration avec les appareils IoT modernes.
+Initié en 2013 par Pierre-Gilles Leymarie en tant qu'assistant personnel intelligent, Gladys Assistant est devenu une solution domotique complète. Reposant sur Node.js, le système se caractérise par sa facilité de déploiement et le respect de la confidentialité des données en local. Gladys propose une interface intuitive, un système de scénarios avancé et une intégration optimale avec les appareils IoT modernes.
 
 **Documentation** : [Documentation Gladys Assistant](https://gladysassistant.com/docs/)
 
