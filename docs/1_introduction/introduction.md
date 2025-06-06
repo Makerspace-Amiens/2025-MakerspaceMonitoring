@@ -7,8 +7,6 @@ has_children: true
 
 # Introduction
 
-Nous vous accueillons dans la section "Introduction" du rapport de projet portant sur le "Monitoring du MakerSpace".
-
 Cette partie initiale du rapport vise à situer le projet dans son contexte, à en expliquer les enjeux et à détailler la structure générale du document. Vous y découvrirez :
 
 ## 📌 Contenu de cette section
