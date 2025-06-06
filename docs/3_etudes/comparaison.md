@@ -7,60 +7,14 @@ nav_order: 14
 
 # 📊 Critères de comparaison
 
-Pour évaluer les différentes solutions domotiques open-source, plusieurs critères ont été définis. Ces critères permettent de comparer les plateformes de manière objective et de déterminer celle qui convient le mieux aux besoins du MakerSpace.
+L'évaluation des différentes solutions domotiques open-source s'est basée sur des critères prédéfinis afin de comparer de manière objective les plateformes et de déterminer celle qui répond le mieux aux besoins du MakerSpace.
 
-## Home Assistant
+Home Assistant présente des avantages tels qu'une interface moderne et agréable, une grande communauté active, une intégration facile avec de nombreux appareils et une documentation abondante. Cependant, son installation peut parfois poser des problèmes, certaines fonctionnalités avancées nécessitent une courbe d'apprentissage importante et il dépend fortement de YAML pour les configurations complexes.
 
-### ✅ Avantages :
-- Interface moderne et agréable.
-- Très grande communauté active.
-- Intégration facile avec de nombreux appareils (Zigbee, MQTT, ESPHome, etc.).
-- Documentation abondante et maintenue.
+OpenHab se distingue par son architecture modulaire robuste adaptée à des scénarios complexes, sa large compatibilité avec les protocoles domotiques existants, ses interfaces web personnalisables et son excellent support communautaire. Néanmoins, il demande un temps d'apprentissage et ses interfaces graphiques de base sont moins modernes mais peuvent être personnalisées.
 
-### ❌ Inconvénients :
-- Installation parfois capricieuse (notamment sur systèmes non dédiés).
-- Certaines fonctionnalités avancées nécessitent une courbe d’apprentissage importante.
-- Dépendance à YAML pour les configurations complexes.
+Nymea se distingue par son interface simple et efficace, sa facilité de prise en main même pour des débutants, sa légèreté idéale pour les déploiements embarqués et son API claire et bien documentée. Cependant, il offre moins d'intégrations que Home Assistant ou OpenHab, une communauté plus restreinte et moins de possibilités de personnalisation avancée.
 
-## OpenHab
-
-### ✅ Avantages :
-- Architecture **modulaire** robuste adaptée à des scénarios complexes.
-- Large **compatibilité** avec les protocoles domotiques existants.
-- Interface personnalisable via plusieurs interfaces web (Main UI, Basic UI, HABPanel).
-- Documentation riche et précise.
-- Excellent support communautaire, en particulier pour les utilisateurs avancés.
-- Fonctionne bien sur systèmes embarqués comme Raspberry Pi, mais aussi sur des serveurs plus robustes.
-- Prise en charge native de **règles automatisées avancées** (DSL ou Blockly, scripts en JS).
-
-### ❌ Inconvénients :
-- Moins « prêt à l'emploi » : requiert un temps d’apprentissage.
-- Interfaces graphiques moins modernes par défaut (mais personnalisables).
-
-## Nymea
-
-### ✅ Avantages :
-- Interface simple et efficace.
-- Très facile à prendre en main, même pour des débutants.
-- Léger, idéal pour des déploiements embarqués à ressources limitées.
-- API claire et bien documentée.
-
-### ❌ Inconvénients :
-- Moins d’intégrations disponibles que Home Assistant ou OpenHab.
-- Moins connu, donc communauté plus restreinte.
-- Moins de possibilités de personnalisation avancée.
-
-## Gladys Assistant
-
-### ✅ Avantages :
-- Hébergement local par défaut, respectueux de la vie privée.
-- Interface conviviale et simple à utiliser.
-- Documentation en français, accessible.
-- Développement actif avec orientation "plug and play".
-
-### ❌ Inconvénients :
-- Moins de plugins et d’intégrations comparé à Home Assistant ou OpenHab.
-- Fonctionnalités avancées parfois limitées pour des projets complexes.
-- Moins adapté à une architecture domotique multi-utilisateur ou multi-site.
+Gladys Assistant offre un hébergement local par défaut respectueux de la vie privée, une interface conviviale et simple à utiliser, une documentation en français et un développement actif avec une orientation "plug and play". Cependant, il propose moins de plugins et d'intégrations que Home Assistant ou OpenHab, des fonctionnalités avancées parfois limitées pour des projets complexes et il est moins adapté à une architecture domotique multi-utilisateur ou multi-site.
 
 ---
