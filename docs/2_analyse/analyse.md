@@ -11,19 +11,15 @@ Cette partie du rapport vise à identifier de manière précise les besoins fonc
 
 ## 📌 Contenu de cette section
 
-- **Besoins fonctionnels et techniques**
-
+- **Besoins fonctionnels et techniques**  
   Cette partie aborde l'identification des besoins spécifiques en termes de fonctionnalités et de performances techniques exigées pour le système domotique.
 
-- **Contraintes imposées**
-
+- **Contraintes imposées**  
   Ce volet met en lumière les contraintes techniques et organisationnelles telles que l'utilisation de solutions open-source, la connectivité, et les implications en termes d'affichage.
 
-- **Usagers ciblés et leurs attentes**
-
+- **Usagers ciblés et leurs attentes**  
   Il sera question ici de décrire les utilisateurs finaux du système et d'établir leurs attentes au regard des fonctionnalités et de l'ergonomie du système.
 
-- **Scénarios d’usage envisagés**
-
+- **Scénarios d’usage envisagés**  
   Enfin, cette section illustrera les divers scénarios d'utilisation du système domotique dans le contexte spécifique du MakerSpace.
 
