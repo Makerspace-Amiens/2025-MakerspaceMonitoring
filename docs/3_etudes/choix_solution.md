@@ -7,8 +7,8 @@ nav_order: 16
 
 # ✅ Choix de la solution retenue et justification
 
-Au départ, notre choix s’orientait vers **Home Assistant**, en raison de sa popularité, de son interface moderne et de sa large communauté. Cependant, un encadrant du MakerSpace nous a fait part de plusieurs difficultés rencontrées lors de son utilisation (intégrations instables, configuration complexe). 
+Initialement, notre préférence était pour Home Assistant, en raison de sa renommée, de son interface moderne et de sa communauté étendue. Cependant, un superviseur du MakerSpace a signalé plusieurs problèmes rencontrés lors de son utilisation (intégrations instables, configuration complexe).
 
-Ces retours nous ont amenés à réévaluer notre choix et à nous tourner vers **OpenHAB**, une solution plus stable, mieux documentée, et offrant une architecture modulaire adaptée à notre projet. Sa compatibilité avec les capteurs ESP32 et son fonctionnement fiable en environnement contraint ont confirmé sa pertinence pour répondre aux besoins spécifiques du MakerSpace.
+Suite à ces retours, nous avons décidé de reconsidérer notre choix et de nous orienter vers **OpenHAB**, une solution plus fiable, mieux documentée, et avec une architecture modulaire adaptée à notre projet. Sa compatibilité avec les capteurs ESP32 et sa fiabilité dans des environnements contraignants ont confirmé sa pertinence pour répondre aux besoins particuliers du MakerSpace.
 
 ---
