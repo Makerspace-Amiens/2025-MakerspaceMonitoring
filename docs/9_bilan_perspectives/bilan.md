@@ -17,6 +17,9 @@ Synthèse critique du projet et pistes d’amélioration futures.
 - **Apports personnels et apprentissages**  
   Compétences développées et retours d’expérience sur le plan technique et organisationnel.
 
+- **Améliorations possibles**  
+  Idées d’optimisation ou d’extension du système.
+
 - **Perspectives d’évolution du système**  
   Scénarios envisagés pour faire évoluer le projet : nouvelles fonctionnalités, déploiement à plus grande échelle…
 
