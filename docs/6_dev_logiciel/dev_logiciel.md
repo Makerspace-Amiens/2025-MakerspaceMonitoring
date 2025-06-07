@@ -1,6 +1,6 @@
 ---
 layout: default
-title: developpement logiciel
+title: 6. Développement logiciel
 nav_order: 27
 has_children: true
 ---
