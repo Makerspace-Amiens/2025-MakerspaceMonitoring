@@ -1,7 +1,7 @@
 ---
 layout: default
 title: developpement logiciel
-nav_order: 1
+nav_order: 27
 has_children: true
 ---
 # 🧠 6. Développement logiciel
