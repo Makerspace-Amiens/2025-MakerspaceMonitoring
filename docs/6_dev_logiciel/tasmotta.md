@@ -1,7 +1,7 @@
 ---
 layout: default
 title: programmation des esp32
-parent: developpement logiciel
+parent: 6. Développement logiciel
 nav_order: 28
 ---
 
