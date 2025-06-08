@@ -28,4 +28,6 @@ Une fois les capteurs choisi, nous devons les souder sur une carte éléctroniqu
 Une carte électronique est un support rigide ou souple sur lequel sont montés et interconnectés des composants électroniques (comme des résistances, des condensateurs, des microcontrôleurs ou des capteurs). Elle permet de réaliser des circuits électriques complexes pour traiter, contrôler ou transmettre des signaux électriques dans un appareil ou un système.
 Une fois que les capteurs ont convertis les donées physiques en signaux électriques, la carte va pouvoir traiter les informations que nous souhaitons analyser.
 
+
+
 ---
