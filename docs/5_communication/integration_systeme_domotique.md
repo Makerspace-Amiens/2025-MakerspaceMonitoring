@@ -7,11 +7,29 @@ nav_order: 26
 
 # 🔗 Intégration des capteurs au système domotique
 
-Per hoc minui studium suum existimans Paulus, ut erat in conplicandis negotiis artifex dirus, unde ei Catenae inditum est cognomentum, vicarium ipsum eos quibus praeerat adhuc defensantem ad sortem periculorum communium traxit. et instabat ut eum quoque cum tribunis et aliis pluribus ad comitatum imperatoris vinctum perduceret: quo percitus ille exitio urgente abrupto ferro eundem adoritur Paulum. et quia languente dextera, letaliter ferire non potuit, iam districtum mucronem in proprium latus inpegit. hocque deformi genere mortis excessit e vita iustissimus rector ausus miserabiles casus levare multorum.
+Après avoir établi la communication via MQTT, la prochaine étape consiste à intégrer de manière efficace les données collectées par les capteurs dans la plateforme domotique choisie, à savoir OpenHab. Cette intégration permet l'utilisation des mesures dans des scénarios domotiques, des tableaux de bord ou des alertes.
 
-Horum adventum praedocti speculationibus fidis rectores militum tessera data sollemni armatos omnes celeri eduxere procursu et agiliter praeterito Calycadni fluminis ponte, cuius undarum magnitudo murorum adluit turres, in speciem locavere pugnandi. neque tamen exiluit quisquam nec permissus est congredi. formidabatur enim flagrans vesania manus et superior numero et ruitura sine respectu salutis in ferrum.
+#### Configuration du broker MQTT dans OpenHab
 
-Illud tamen clausos vehementer angebat quod captis navigiis, quae frumenta vehebant per flumen, Isauri quidem alimentorum copiis adfluebant, ipsi vero solitarum rerum cibos iam consumendo inediae propinquantis aerumnas exitialis horrebant.
+La configuration du broker MQTT dans OpenHab se fait nativement en installant l'extension "MQTT Binding". Dans notre projet, nous avons configuré OpenHab pour se connecter au broker Mosquitto installé localement sur le NUC. Pour cela, un "MQTT Broker Thing" a été ajouté dans OpenHab avec les paramètres suivants : 
+- Adresse du broker : `adresse IP du NUC`
+- Port : `8080`
+
+#### Déclaration des capteurs (Things)
+
+Cette étape établit la connexion entre OpenHab et le flux de données MQTT.
+
+Chaque capteur est représenté dans OpenHab par un **Thing** de type MQTT. Chaque Thing regroupe un ou plusieurs Channels, correspondant à une donnée mesurée. 
+
+Par exemple, pour un capteur de température dans le PrinterLAB, un Thing est défini avec un Channel lié au topic : `makerspace/printerlab/temperature`. 
+
+Le Channel est configuré pour recevoir un message JSON, et un "transformateur" peut être utilisé pour extraire la donnée pertinente, par exemple : `JSONPATH:$.valeur`
+
+#### Liaison avec les Items
+
+Ensuite, les Channels sont liés à des Items, représentant les données dans l'interface d'OpenHab. Chaque Item peut être utilisé pour afficher une valeur sur un tableau de bord, lancer une automatisation ou déclencher une alerte.
+
+Une fois les Items configurés, les données des capteurs sont disponibles dans l'interface OpenHab sous forme de graphiques, jauges ou valeurs numériques simples.
 
 ---
 
