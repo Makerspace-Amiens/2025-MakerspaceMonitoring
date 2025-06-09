@@ -12,7 +12,7 @@ Cette section décrit les moyens de communication entre les capteurs et la plate
 ## 📌 Contenu de cette section
 
 - **Protocoles de communication**  
-  Présentation des protocoles utilisés : Wi-Fi, MQTT, HTTP, etc.
+  Présentation des protocoles utilisés : Wi-Fi et MQTT
 
 - **Sécurité et fiabilité de la communication**  
   Mécanismes mis en place pour assurer la confidentialité, l'intégrité et la disponibilité des données.
