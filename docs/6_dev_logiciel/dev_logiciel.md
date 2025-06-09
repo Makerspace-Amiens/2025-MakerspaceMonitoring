@@ -15,7 +15,7 @@ Cette partie explique comment on a codé, configuré et testé le système qui f
 
 ## 🗂️ Sommaire interactif
 
-### 🔌 [6.1 Programmation des ESP32](6_1_programmation_esp32.md)
+### 🔌 [6.1 Programmation des ESP32](programmation_esp32.md)
 📎 Langages utilisés : `MicroPython`, `Arduino C++`  
 🧰 IDE : `PlatformIO`, `Thonny`, `Arduino IDE`  
 🧠 Ce qu’on a codé pour capter, envoyer et réagir à des données.
