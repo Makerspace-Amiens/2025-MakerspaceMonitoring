@@ -23,4 +23,15 @@ Le protocole MQTT (Message Queuing Telemetry Transport) occupe une place central
 
 Nous avons déployé un broker MQTT Mosquitto sur un NUC local (Intel NUC), qui héberge également le serveur OpenHab. Les capteurs ESP32 publient leurs données sur des topics spécifiques (par exemple : `makerspace/salle1/temperature`) et OpenHab les utilise pour les traiter, les stocker ou les afficher.
 
+Les capteurs envoient des messages au format JSON, un format léger, structuré et largement pris en charge. Cette méthode permet de transmettre diverses valeurs ou métadonnées dans un unique message, ce qui facilite les évolutions futures.
+
+Exemple de message publié :
+```json
+{
+  "valeur": 23.5,
+  "unite": "°C",
+  "timestamp": "2025-06-08T15:42:10Z"
+}
+```
+
 ---
