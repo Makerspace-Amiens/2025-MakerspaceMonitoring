@@ -8,15 +8,11 @@ title: Accueil
 
 Bienvenue dans la documentation du projet du monitoring du MakerSpace. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
 
-![Illustration vectorielle colorée avec un fond blanc, montrant un atelier équipé pour un projet de conception mécanique, électronique et informatique](images/illustration.png)
+![Poster projet](images/poster.png)
 
 ## À propos du Projet
 
 Un monitoring (surveillance en français) est un ensemble de techniques permettant d'analyser, contrôler et surveiller un lieu donné. Dans notre cas on a décidé d'appliquer cette stratégie au MakerSpace de Unilasalle Amiens pour rendre cet étage intelligent à l'aide de l'électronique et de solution domotique.
-
-## Poster
-
-![Poster projet](images/poster.png)
 
 ## Vidéo
 
