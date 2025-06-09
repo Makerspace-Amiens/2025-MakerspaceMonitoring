@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 🏁 Introduction
+title: 1. 📜 Introduction
 nav_order: 2
 ---
 
