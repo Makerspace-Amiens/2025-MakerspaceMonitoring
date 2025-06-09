@@ -11,9 +11,6 @@ Cette partie du rapport vise à identifier de manière précise les besoins fonc
 
 ## 📌 Contenu de cette section
 
-- **Besoins fonctionnels et techniques**  
-  Cette partie aborde l'identification des besoins spécifiques en termes de fonctionnalités et de performances techniques exigées pour le système domotique.
-
 - **Contraintes imposées**  
   Ce volet met en lumière les contraintes techniques et organisationnelles telles que l'utilisation de solutions open-source, la connectivité, et les implications en termes d'affichage.
 
