@@ -14,9 +14,6 @@ Cette section décrit les moyens de communication entre les capteurs et la plate
 - **Protocoles de communication**  
   Présentation des protocoles utilisés : Wi-Fi, MQTT, HTTP, etc.
 
-- **Structure des messages échangés**  
-  Description des formats des messages entre capteurs et serveur domotique.
-
 - **Sécurité et fiabilité de la communication**  
   Mécanismes mis en place pour assurer la confidentialité, l'intégrité et la disponibilité des données.
 
