@@ -10,7 +10,7 @@ Dans le cadre de ce projet, différentes solutions de domotique open-source ont 
 
 Le concept open source fait référence à une licence logicielle qui permet aux utilisateurs d'accéder, de modifier et de distribuer librement le code source du logiciel. Cela garantit la transparence, la flexibilité et l'extensibilité du système.
 
-## <img src="docs/images/HomeAssistant_Logo.png" alt="Logo Home Assistant" width="120"/>
+## <img src="images/HomeAssistant_Logo.png" alt="Logo Home Assistant" width="120"/>
 
 ### Home Assistant
 
@@ -20,7 +20,7 @@ Créée en 2013 par Paulus Schoutsen, Home Assistant s'est imposée comme l'une 
 
 ---
 
-## <img src="docs/images/OPENHAB_Logo.png" alt="Logo OpenHAB" width="100"/>
+## <img src="images/OPENHAB_Logo.png" alt="Logo OpenHAB" width="100"/>
 
 ### OpenHAB
 
@@ -30,7 +30,7 @@ Lancée en 2010 par Kai Kreuzer, OpenHAB (Open Home Automation Bus) se distingue
 
 ---
 
-## <img src="docs/images/Nymea_Logo.png" alt="Logo Nymea" width="120"/>
+## <img src="images/Nymea_Logo.png" alt="Logo Nymea" width="120"/>
 
 ### Nymea
 
@@ -40,7 +40,7 @@ Développée plus récemment par une équipe autrichienne, Nymea vise à simplif
 
 ---
 
-## <img src="docs/images/Gladys_Logo.png" alt="Logo Gladys Assistant" width="100"/>
+## <img src="images/Gladys_Logo.png" alt="Logo Gladys Assistant" width="100"/>
 
 
 ### Gladys Assistant
@@ -67,7 +67,7 @@ Gladys Assistant offre un hébergement local par défaut respectueux de la vie p
 
 # ⚖️ Tableau comparatif synthétique
 
-| **Critère**   | <img src="docs/images/HomeAssistant_Logo.png" alt="Logo Home Assistant" width="60"/><br>**Home Assistant** | <img src="docs/images/OPENHAB_Logo.png" alt="Logo OpenHAB" width="60"/><br>**OpenHAB** | <img src="docs/images/Nymea_Logo.png" alt="Logo Nymea" width="60"/><br>**Nymea** | <img src="docs/images/Gladys_Logo.png" alt="Logo Gladys" width="60"/><br>**Gladys Assistant** |
+| **Critère**   | <img src="images/HomeAssistant_Logo.png" alt="Logo Home Assistant" width="60"/><br>**Home Assistant** | <img src="images/OPENHAB_Logo.png" alt="Logo OpenHAB" width="60"/><br>**OpenHAB** | <img src="images/Nymea_Logo.png" alt="Logo Nymea" width="60"/><br>**Nymea** | <img src="images/Gladys_Logo.png" alt="Logo Gladys" width="60"/><br>**Gladys Assistant** |
 |---------------|----------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------|---------------------------------------------------------------|
 | **Ergonomie** | ⭐⭐⭐⭐☆<br>Interface claire, configuration assistée.             | ⭐⭐⭐☆☆<br>Interface moins intuitive, demande des bases techniques. | ⭐⭐⭐⭐☆<br>Interface simple, adaptée aux débutants.          | ⭐⭐⭐⭐☆<br>Interface intuitive, facile à utiliser.               |
 | **Compatibilité** | ⭐⭐⭐⭐⭐<br>Supporte de nombreux protocoles et équipements.     | ⭐⭐⭐⭐⭐<br>Très large compatibilité, très complet.          | ⭐⭐⭐⭐☆<br>Bonne compatibilité, un peu plus limitée.         | ⭐⭐⭐⭐☆<br>Compatible avec la plupart des équipements courants. |
