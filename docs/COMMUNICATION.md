@@ -65,4 +65,4 @@ Une fois les Items configurés, les données des capteurs sont disponibles dans 
 
 # 🧭 Schéma de communication avec le protocole MQTT
 
-## <img src="images/Schema_communication.png" alt="Chemin" width="100"/>
+## <img src="images/Schema_communication.png" alt="Chemin"/>
