@@ -16,6 +16,6 @@ Un monitoring (surveillance en français) est un ensemble de techniques permetta
 
 ## Vidéo
 
-[Le lien de notre vidéo](https://www.youtube.com/watch?v=9B77QVuwnQ8)
+[📌 Le lien de notre vidéo](](https://www.youtube.com/shorts/P2owSOzAvVQ))
 
 ---
