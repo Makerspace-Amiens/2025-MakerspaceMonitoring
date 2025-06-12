@@ -7,11 +7,39 @@ nav_order: 40
 
 # 🧭 Apports personnels et apprentissages
 
-Per hoc minui studium suum existimans Paulus, ut erat in conplicandis negotiis artifex dirus, unde ei Catenae inditum est cognomentum, vicarium ipsum eos quibus praeerat adhuc defensantem ad sortem periculorum communium traxit. et instabat ut eum quoque cum tribunis et aliis pluribus ad comitatum imperatoris vinctum perduceret: quo percitus ille exitio urgente abrupto ferro eundem adoritur Paulum. et quia languente dextera, letaliter ferire non potuit, iam districtum mucronem in proprium latus inpegit. hocque deformi genere mortis excessit e vita iustissimus rector ausus miserabiles casus levare multorum.
+Ce projet de monitoring domotique a constitué une opportunité d'apprentissage variée, tant au niveau technique que méthodologique. Il représente une étape significative dans notre développement en tant que futurs ingénieurs.
 
-Horum adventum praedocti speculationibus fidis rectores militum tessera data sollemni armatos omnes celeri eduxere procursu et agiliter praeterito Calycadni fluminis ponte, cuius undarum magnitudo murorum adluit turres, in speciem locavere pugnandi. neque tamen exiluit quisquam nec permissus est congredi. formidabatur enim flagrans vesania manus et superior numero et ruitura sine respectu salutis in ferrum.
+### Polyvalence technique
 
-Illud tamen clausos vehementer angebat quod captis navigiis, quae frumenta vehebant per flumen, Isauri quidem alimentorum copiis adfluebant, ipsi vero solitarum rerum cibos iam consumendo inediae propinquantis aerumnas exitialis horrebant.
+La mise en place de ce système nous a permis de mobiliser un large éventail de compétences, notamment :
+- Conception électronique (sélection des capteurs, intégration matérielle)
+- Programmation embarquée (utilisation de l'ESP32, communication via MQTT)
+- Mise en réseau de dispositifs (utilisation du Wi-Fi, protocoles IoT)
+- Déploiement logiciel et configuration de plateformes open-source (OpenHab)
+- Visualisation de données et développement d'interfaces utilisateurs
+
+Cette approche transversale nous a confrontés aux défis pratiques de l'ingénierie des systèmes embarqués, dans un contexte connecté et multi-utilisateur.
+
+### Approche projet & prototypage
+
+Nous avons également renforcé notre capacité à :
+- Travailler de manière itérative, en testant rapidement des prototypes (boîtiers, supports, configuration)
+- Gérer les compromis techniques (coûts, robustesse, performance)
+- Adapter nos solutions à un environnement réel, en prenant en compte les contraintes physiques et humaines du MakerSpace
+
+### Travail en équipe et communication
+
+Ce projet a souligné l'importance de la collaboration interdisciplinaire, avec une communication constante entre les aspects matériels, logiciels, ergonomiques et organisationnels.
+
+Nous avons également appris à documenter rigoureusement notre travail, dans le but de le rendre réutilisable et ouvert (approche open-source).
+
+### Impact sur notre formation
+
+En conclusion, ce projet nous a permis :
+- D'approfondir notre compréhension des systèmes domotiques
+- D'appliquer concrètement des notions de cours (réseaux, capteurs…)
+
+Cette expérience a été formatrice et enrichissante, renforçant notre capacité à concevoir, réaliser et améliorer un système complet, de la conception du capteur à l'interface utilisateur.
 
 ---
 
