@@ -7,10 +7,12 @@ nav_order: 32
 
 # 🧩 Conception du dashboard
 
-Per hoc minui studium suum existimans Paulus, ut erat in conplicandis negotiis artifex dirus, unde ei Catenae inditum est cognomentum, vicarium ipsum eos quibus praeerat adhuc defensantem ad sortem periculorum communium traxit. et instabat ut eum quoque cum tribunis et aliis pluribus ad comitatum imperatoris vinctum perduceret: quo percitus ille exitio urgente abrupto ferro eundem adoritur Paulum. et quia languente dextera, letaliter ferire non potuit, iam districtum mucronem in proprium latus inpegit. hocque deformi genere mortis excessit e vita iustissimus rector ausus miserabiles casus levare multorum.
+La solution domotique sélectionnée pour ce projet est OpenHab, qui propose la création de tableaux de bord personnalisés appelés _Sitemaps_ ou _Pages UI_. Ces interfaces offrent une grande flexibilité dans la présentation des données et la navigation par pièce ou zone fonctionnelle.
 
-Horum adventum praedocti speculationibus fidis rectores militum tessera data sollemni armatos omnes celeri eduxere procursu et agiliter praeterito Calycadni fluminis ponte, cuius undarum magnitudo murorum adluit turres, in speciem locavere pugnandi. neque tamen exiluit quisquam nec permissus est congredi. formidabatur enim flagrans vesania manus et superior numero et ruitura sine respectu salutis in ferrum.
+L'organisation de l'interface a été pensée de manière logique selon les différentes pièces ou espaces du MakerSpace (par exemple : atelier électronique, salle des imprimantes 3D, espace détente), permettant ainsi une meilleure compréhension et un accès rapide aux données pertinentes pour chaque zone.
 
-Illud tamen clausos vehementer angebat quod captis navigiis, quae frumenta vehebant per flumen, Isauri quidem alimentorum copiis adfluebant, ipsi vero solitarum rerum cibos iam consumendo inediae propinquantis aerumnas exitialis horrebant.
+OpenHab propose une variété de composants graphiques pour enrichir l'interface, tels que des graphiques temporels, des barres de progression pour la consommation électrique, et des icônes dynamiques représentant l'état des capteurs ou des équipements. Cette modularité permet d'adapter le tableau de bord aux différents profils d'utilisateurs, allant du visiteur occasionnel au technicien de maintenance.
+
+L'objectif principal de cette interface est de fournir une expérience utilisateur intuitive, contextualisée et visuellement claire, afin que chaque utilisateur puisse rapidement saisir l'état global du MakerSpace, pièce par pièce.
 
 ---
