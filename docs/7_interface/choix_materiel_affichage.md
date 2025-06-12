@@ -7,10 +7,12 @@ nav_order: 31
 
 # 🖥️ Choix du matériel d’affichage
 
-Per hoc minui studium suum existimans Paulus, ut erat in conplicandis negotiis artifex dirus, unde ei Catenae inditum est cognomentum, vicarium ipsum eos quibus praeerat adhuc defensantem ad sortem periculorum communium traxit. et instabat ut eum quoque cum tribunis et aliis pluribus ad comitatum imperatoris vinctum perduceret: quo percitus ille exitio urgente abrupto ferro eundem adoritur Paulum. et quia languente dextera, letaliter ferire non potuit, iam districtum mucronem in proprium latus inpegit. hocque deformi genere mortis excessit e vita iustissimus rector ausus miserabiles casus levare multorum.
+Dans le but de permettre la visualisation en temps réel des données provenant des capteurs, deux dispositifs d'affichage ont été déployés dans le MakerSpace.
 
-Horum adventum praedocti speculationibus fidis rectores militum tessera data sollemni armatos omnes celeri eduxere procursu et agiliter praeterito Calycadni fluminis ponte, cuius undarum magnitudo murorum adluit turres, in speciem locavere pugnandi. neque tamen exiluit quisquam nec permissus est congredi. formidabatur enim flagrans vesania manus et superior numero et ruitura sine respectu salutis in ferrum.
+Les dispositifs utilisés comprennent un Raspberry Pi 3 avec un écran HDMI, fixé à l'arrière de l'écran, configuré pour afficher automatiquement une page web hébergée par le serveur domotique. Cette configuration permet une visualisation continue et simple des indicateurs via un navigateur web en mode plein écran.
 
-Illud tamen clausos vehementer angebat quod captis navigiis, quae frumenta vehebant per flumen, Isauri quidem alimentorum copiis adfluebant, ipsi vero solitarum rerum cibos iam consumendo inediae propinquantis aerumnas exitialis horrebant.
+Une tablette Samsung Galaxy Tab S6 Lite, déjà présente dans le MakerSpace, a également été utilisée comme second point d'affichage. Connectée au même réseau local, elle permet un accès à l'interface web via le navigateur, offrant une flexibilité appréciable grâce à son autonomie et sa mobilité pour une consultation rapide du tableau de bord.
+
+En complément du système domotique, ces deux supports d'affichage offrent un accès clair, intuitif et en temps réel aux informations collectées, améliorant ainsi l'efficacité globale de la visualisation des données.
 
 ---
