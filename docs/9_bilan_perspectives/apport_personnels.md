@@ -7,39 +7,15 @@ nav_order: 40
 
 # 🧭 Apports personnels et apprentissages
 
-Ce projet de monitoring domotique a constitué une opportunité d'apprentissage variée, tant au niveau technique que méthodologique. Il représente une étape significative dans notre développement en tant que futurs ingénieurs.
+Ce projet de monitoring domotique a été une opportunité précieuse d'apprentissage technique et méthodologique, marquant une étape importante dans notre développement en tant que futurs ingénieurs.
 
-### Polyvalence technique
+En mobilisant un large éventail de compétences, telles que la conception électronique, la programmation embarquée et la mise en réseau de dispositifs, nous avons été confrontés aux défis pratiques de l'ingénierie des systèmes embarqués, dans un environnement connecté et multi-utilisateur.
 
-La mise en place de ce système nous a permis de mobiliser un large éventail de compétences, notamment :
-- Conception électronique (sélection des capteurs, intégration matérielle)
-- Programmation embarquée (utilisation de l'ESP32, communication via MQTT)
-- Mise en réseau de dispositifs (utilisation du Wi-Fi, protocoles IoT)
-- Déploiement logiciel et configuration de plateformes open-source (OpenHab)
-- Visualisation de données et développement d'interfaces utilisateurs
+Notre approche projet et prototypage nous a permis de travailler de manière itérative, de gérer les compromis techniques et d'adapter nos solutions à un environnement réel, en tenant compte des contraintes physiques et humaines du MakerSpace.
 
-Cette approche transversale nous a confrontés aux défis pratiques de l'ingénierie des systèmes embarqués, dans un contexte connecté et multi-utilisateur.
+La collaboration interdisciplinaire et la communication constante entre les différentes parties du projet ont été soulignées comme étant essentielles. Nous avons également appris à documenter soigneusement notre travail, dans un souci de rendre nos résultats réutilisables et ouverts grâce à une approche open-source.
 
-### Approche projet & prototypage
-
-Nous avons également renforcé notre capacité à :
-- Travailler de manière itérative, en testant rapidement des prototypes (boîtiers, supports, configuration)
-- Gérer les compromis techniques (coûts, robustesse, performance)
-- Adapter nos solutions à un environnement réel, en prenant en compte les contraintes physiques et humaines du MakerSpace
-
-### Travail en équipe et communication
-
-Ce projet a souligné l'importance de la collaboration interdisciplinaire, avec une communication constante entre les aspects matériels, logiciels, ergonomiques et organisationnels.
-
-Nous avons également appris à documenter rigoureusement notre travail, dans le but de le rendre réutilisable et ouvert (approche open-source).
-
-### Impact sur notre formation
-
-En conclusion, ce projet nous a permis :
-- D'approfondir notre compréhension des systèmes domotiques
-- D'appliquer concrètement des notions de cours (réseaux, capteurs…)
-
-Cette expérience a été formatrice et enrichissante, renforçant notre capacité à concevoir, réaliser et améliorer un système complet, de la conception du capteur à l'interface utilisateur.
+En résumé, ce projet nous a permis d'approfondir notre compréhension des systèmes domotiques, d'appliquer concrètement des notions de cours et de renforcer notre capacité à concevoir, réaliser et améliorer un système complet, de la conception du capteur à l'interface utilisateur.
 
 ---
 
