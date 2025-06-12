@@ -7,11 +7,15 @@ nav_order: 42
 
 # 🚀 Perspectives d’évolution du système
 
-Per hoc minui studium suum existimans Paulus, ut erat in conplicandis negotiis artifex dirus, unde ei Catenae inditum est cognomentum, vicarium ipsum eos quibus praeerat adhuc defensantem ad sortem periculorum communium traxit. et instabat ut eum quoque cum tribunis et aliis pluribus ad comitatum imperatoris vinctum perduceret: quo percitus ille exitio urgente abrupto ferro eundem adoritur Paulum. et quia languente dextera, letaliter ferire non potuit, iam districtum mucronem in proprium latus inpegit. hocque deformi genere mortis excessit e vita iustissimus rector ausus miserabiles casus levare multorum.
+Ce projet a établi les bases d'un système de surveillance opérationnel, modulaire et ouvert, adapté aux besoins spécifiques du MakerSpace. Cependant, de nombreuses possibilités d'évolution peuvent être envisagées à court et moyen terme.
 
-Horum adventum praedocti speculationibus fidis rectores militum tessera data sollemni armatos omnes celeri eduxere procursu et agiliter praeterito Calycadni fluminis ponte, cuius undarum magnitudo murorum adluit turres, in speciem locavere pugnandi. neque tamen exiluit quisquam nec permissus est congredi. formidabatur enim flagrans vesania manus et superior numero et ruitura sine respectu salutis in ferrum.
+Le système actuel se concentre principalement sur la surveillance environnementale (qualité de l'air, température, humidité). Il peut être étendu facilement grâce à son architecture basée sur des technologies open-source.
 
-Illud tamen clausos vehementer angebat quod captis navigiis, quae frumenta vehebant per flumen, Isauri quidem alimentorum copiis adfluebant, ipsi vero solitarum rerum cibos iam consumendo inediae propinquantis aerumnas exitialis horrebant.
+À partir des données collectées, il est possible d'automatiser un grand nombre de tâches pour améliorer le confort, la sécurité et la sobriété énergétique du MakerSpace : gestion automatisée du chauffage, de la ventilation ou de la lumière selon la présence ou les conditions ambiantes, détection d'anomalies, notifications personnalisées, affichage d'indicateurs de disponibilité.
+
+De nombreux équipements peuvent être ajoutés, tels que des prises ou interrupteurs connectés, des systèmes d'ouverture automatique ou de sécurité, des moniteurs d'activité sur les machines (imprimantes 3D, découpeuse laser). 
+
+L'objectif est de faire du MakerSpace un environnement réactif, intelligent et agréable à utiliser au quotidien, tout en adoptant une approche évolutive et open-source.
 
 ---
 
