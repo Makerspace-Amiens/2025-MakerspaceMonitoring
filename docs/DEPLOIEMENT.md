@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 8. 🏗️ Déploiement dans le MakerSpace
+title: 9. 🏗️ Déploiement dans le MakerSpace
 nav_order: 9
 ---
 
