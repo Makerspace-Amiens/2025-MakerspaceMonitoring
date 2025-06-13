@@ -30,5 +30,7 @@ De nombreux équipements peuvent être ajoutés, tels que des prises ou interrup
 
 L'objectif est de faire du MakerSpace un environnement réactif, intelligent et agréable à utiliser au quotidien, tout en adoptant une approche évolutive et open-source.
 
+<img src="images/photo_fin.jpg" width="600"/>
+
 ---
 
