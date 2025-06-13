@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 7. 🧩 Interface de visualisation et affichage
+title: 8. 🧩 Interface de visualisation et affichage
 nav_order: 8
 ---
 
