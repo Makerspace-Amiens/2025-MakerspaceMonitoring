@@ -17,6 +17,7 @@ Charnière.
 
 <img src="images/model3.png" width="400"/>
 <img src="images/support_mural.png" width="250"/>
+
 Voici le support final. Il vient se fixer au mur, un cadre en bois permet de maintenir la tablette et un antivol pour le chargeur est présent.
 
 En ce qui concerne l'affichage via le Raspberry Pi 3, un support imprimé en PLA conforme à la norme VESA a été utilisé pour fixer solidement l'écran HDMI à l'appareil, permettant la dissimulation de la Raspberry Pi et assurant une ventilation adéquate. Ce point d'affichage fixe et autonome est configuré pour afficher en plein écran le tableau de bord du serveur domotique.
