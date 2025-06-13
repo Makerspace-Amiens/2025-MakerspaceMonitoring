@@ -15,7 +15,7 @@ nav_order: 30
 
 Le microcontrôleur **XIAO ESP32-C3** est compact, économique, doté d’une connectivité Wi-Fi, et parfaitement adapté à l’environnement Tasmota. Il est alimenté via **USB-C**, ce qui facilite la configuration initiale depuis un ordinateur.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4b3f7a12-bde5-4e52-b964-d5abf5f9e2b6" alt="Schéma de câblage ESP32-C3" width="450"/>
+  <img src="https://github.com/user-attachments/assets/4b3f7a12-bde5-4e52-b964-d5abf5f9e2b6" alt="Schéma de câblage ESP32-C3" width="200"/>
 </p>
 ---
 
