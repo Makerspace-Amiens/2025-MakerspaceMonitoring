@@ -31,9 +31,9 @@ Ce scénario simple illustre bien comment la domotique peut être utilisée **po
 
 ---
 <p align="center">
-  <img src="docs/images/logique.png" alt="Photo 1" width="500"/>
+  <img src="docs/images/logique.png" alt="Photo 1" width="300" style="margin-right:10px;" />
+  <img src="/docs/images/projetfoyer.png" alt="Photo 2" width="300" />
 </p>
-
 ## ⚙️ Mise en place de l’automatisation dans OpenHab
 
 Nous allons créer une **règle conditionnelle** dans OpenHab qui surveille un capteur de température, et agit automatiquement si une température critique est atteinte.
