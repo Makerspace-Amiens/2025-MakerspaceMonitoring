@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 3. 🧰 Étude des solutions domotiques open-source
+title: 4. 🧰 Étude des solutions domotiques open-source
 nav_order: 4
 ---
 
