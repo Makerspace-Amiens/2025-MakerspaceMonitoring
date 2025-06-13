@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ✅ test pour voir
+title: ⚙️ Configuration de la solution domotique avec OpenHab
 parent: 6. Développement logiciel
 nav_order: 29
 ---
