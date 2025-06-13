@@ -21,12 +21,12 @@ Le microcontrôleur **XIAO ESP32-C3** est compact, économique, doté d’une co
 
 Nous avons utilisé le firmware officiel **Tasmota** spécialement compilé pour les ESP32-C3. Il s'agit du fichier :
 
-**`tasmota32c3factory.bin`**
+**`tasmota32c3.factory.bin`**
 
-🔗 Lien de téléchargement officiel :
-👉 https://github.com/arendst/Tasmota/releases/latest
+🔗 Lien de téléchargement direct :
+👉 [tasmota32c3.factory.bin (OTA)](https://ota.tasmota.com/tasmota32/release/tasmota32c3.factory.bin)
 
-Ce fichier est une **version d’usine** du firmware Tasmota : il contient le bootloader et la configuration initiale pour permettre à l’ESP32-C3 de démarrer directement dans un environnement prêt à l’emploi. Il est indispensable pour un premier flash.
+Ce fichier est une **version d’usine** du firmware Tasmota. Il contient le bootloader et la configuration initiale pour permettre à l’ESP32-C3 de démarrer directement dans un environnement prêt à l’emploi. Ce firmware est indispensable pour un premier flash.
 
 ---
 
@@ -42,13 +42,13 @@ python -m esptool --chip esp32c3 --port COMx erase_flash
 
 #### 2. Flash du firmware Tasmota
 
-Installez ensuite `tasmota32c3factory.bin` :
+Installez ensuite `tasmota32c3.factory.bin` :
 
 ```bash
-python -m esptool --chip esp32c3 --port COMx write_flash -z 0x0 tasmota32c3factory.bin
+python -m esptool --chip esp32c3 --port COMx write_flash -z 0x0 tasmota32c3.factory.bin
 ```
 
-> 💡 Assurez-vous que le fichier `.bin` se trouve dans le répertoire courant, ou indiquez le chemin complet.
+> 💡 Téléchargez le fichier depuis le lien ci-dessus et placez-le dans le dossier courant, ou indiquez son chemin complet.
 
 ---
 
@@ -84,26 +84,29 @@ Accédez à l’interface Tasmota via l’IP attribuée, puis allez dans `Config
 
 Dans `Configuration > Configure Module`, choisissez **Module Generic (18)**, puis assignez les GPIO aux capteurs connectés.
 
-#### 🔹 AMS2302 (capteur d’humidité/température)
+#### 🔹 AMS2302 (température & humidité)
 
-Ce capteur est branché sur **GPIO10**. Il est configuré comme un **AM2301** (équivalent supporté par Tasmota).
+- Capteur branché sur **GPIO10**
+- Type dans Tasmota : **AM2301**
 
-- **GPIO10** : AM2301
+| Fonction    | GPIO   | Remarque                                  |
+|-------------|--------|-------------------------------------------|
+| Data        | GPIO10 | Un seul fil de données (1 fil + GND + VCC) |
 
-#### 🔹 PMS7003 (capteur particules fines)
+#### 🔹 PMS7003 (particules fines PM1.0 / PM2.5 / PM10)
 
-Ce capteur communique en UART et est compatible avec la configuration **PMS5003** dans Tasmota. Il est branché ainsi :
+Ce capteur UART est compatible avec **PMS5003** dans Tasmota :
 
-- **GPIO20** : PMS5003 TX (capteur → RX du module)
-- **GPIO21** : PMS5003 RX (capteur ← TX du module)
-
-Une fois la configuration sauvegardée, Tasmota détecte les capteurs et publie automatiquement les données sur le topic MQTT.
+| Fonction      | GPIO    | Remarque                          |
+|---------------|---------|-----------------------------------|
+| TX (capteur)  | GPIO20  | → RX de l’ESP32                   |
+| RX (capteur)  | GPIO21  | ← TX de l’ESP32                   |
 
 ---
 
 ### 🧪 Vérification du fonctionnement
 
-Les messages MQTT peuvent être lus via **MQTT Explorer** ou directement intégrés dans **OpenHab** ou **Home Assistant**.
+Les messages MQTT peuvent être lus via **MQTT Explorer**, ou intégrés dans **OpenHab** ou **Home Assistant**.
 
 #### Exemple de message JSON publié :
 
@@ -124,4 +127,5 @@ Les messages MQTT peuvent être lus via **MQTT Explorer** ou directement intégr
 
 ---
 
-✅ Grâce à Tasmota, l’ESP32-C3 peut publier des données en temps réel sans aucune ligne de code personnalisée, ce qui facilite le déploiement rapide dans un environnement MakerSpace.
+✅ Grâce à Tasmota, l’ESP32-C3 publie les données des capteurs en temps réel sans écrire de code, ce qui simplifie et fiabilise le déploiement dans le MakerSpace.
+
