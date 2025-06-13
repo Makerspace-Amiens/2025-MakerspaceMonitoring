@@ -49,7 +49,7 @@ L'introduction a pour objectif de présenter le projet "Monitoring du MakerSpace
 3. 📝 [**Analyse des besoins et cahier des charges**](ANALYSE.md)    
 Cette section expose les besoins fonctionnels et techniques du projet, les contraintes à respecter, ainsi que les profils des utilisateurs visés et leurs attentes.
 
-4. 🧰 [**Étude des solutions domotiques open-source**](ETUDE.md)    
+4. 🧰 [**Étude des solutions domotiques open-source**](ETUDES.md)    
 Cette partie révèle les résultats de l'analyse des solutions domotiques open-source testées, en incluant un tableau comparatif des critères tels que la compatibilité, l'ergonomie, et la documentation.
 
 5. 🌡️ [**Conception des capteurs connectés**](CONCEPTION_CAPTEUR.md)  
