@@ -9,7 +9,7 @@ has_children: true
 Cette partie explique comment on a codé, configuré et testé le système qui fait tourner toute l'automatisation du MakerSpace.
 
 > 🛠️ Objectif : connecter les capteurs, centraliser les données, déclencher les bonnes actions au bon moment.  
-> L'ensemble repose sur des **ESP32**, **MQTT**, et **Home Assistant**.
+> L'ensemble repose sur des **ESP32C3**, **MQTT**, et **OPENHAB**.
 
 ---
 
@@ -23,7 +23,7 @@ Cette partie explique comment on a codé, configuré et testé le système qui f
 ---
 
 ### ⚙️ [6.2 Configuration de la solution domotique](6_2_configuration_domotique.md)
-🧠 On a choisi **Home Assistant** pour centraliser les capteurs.  
+🧠 On a choisi **OPENHAB** pour centraliser les capteurs.  
 📡 Intégration avec `MQTT`, création des entités, dashboard de suivi.
 
 ---
@@ -35,7 +35,7 @@ On explique nos règles domotiques (en YAML) et comment elles réagissent en tem
 ---
 
 ### 🧪 [6.4 Tests et validation](6_4_tests_validation.md)
-✅ Tests unitaires sur les modules ESP32  
+✅ Tests unitaires sur les modules ESP32C3
 🕵️ Vérifications des scénarios d’automatisation  
 🗂️ Logs, retours d’erreur, et ajustements.
 
