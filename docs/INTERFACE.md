@@ -32,6 +32,6 @@ L'objectif principal de cette interface est de fournir une expérience utilisate
 
 <img src="https://community-openhab-org.s3.dualstack.eu-central-1.amazonaws.com/original/3X/6/b/6b38520b5b69446c340823eee02aae8ba7c8815c.png" width="600"/>
 
-Example de dashboard.
+Exemple de dashboard.
 
 ---
