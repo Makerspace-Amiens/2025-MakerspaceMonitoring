@@ -168,10 +168,10 @@ Elle propose :
 
 ---
 
-### 6️⃣ Exemple de dashboard créé par Tamsota
+### 6️⃣ Exemple de dashboard créé sur OPENHAB pour la journée des projets
 
 <p align="center">
-  <img src="https://github.com/Makerspace-Amiens/2025-MakerspaceMonitoring/blob/14656262f42c777ede4f97549afc9d5a711c7fb6/docs/images/dashboard1.jpg" alt="Photo 1" width="300" style="margin-right:10px;" />
-  <img src="images/photo2.png" alt="Photo 2" width="300" />
+  <img src="https://github.com/Makerspace-Amiens/2025-MakerspaceMonitoring/blob/14656262f42c777ede4f97549afc9d5a711c7fb6/docs/images/dashboard1.jpg" alt="Photo 1" width="500" style="margin-right:10px;" />
+  <img src="https://github.com/Makerspace-Amiens/2025-MakerspaceMonitoring/blob/039c82b16e3f3c2008b23c0846b4797ea3aa2b41/docs/images/dashboard2.jpg" alt="Photo 2" width="500" />
 </p>
 
