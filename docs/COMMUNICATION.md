@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 5. 📡 Communication et interconnexion
+title: 6. 📡 Communication et interconnexion
 nav_order: 6
 ---
 
