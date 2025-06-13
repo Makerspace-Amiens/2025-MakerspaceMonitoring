@@ -171,7 +171,7 @@ Elle propose :
 ### 6️⃣ Exemple de dashboard créé par Tamsota
 
 <p align="center">
-  <img src="images/photo1.png" alt="Photo 1" width="300" style="margin-right:10px;" />
+  <img src="https://github.com/Makerspace-Amiens/2025-MakerspaceMonitoring/blob/14656262f42c777ede4f97549afc9d5a711c7fb6/docs/images/dashboard1.jpg" alt="Photo 1" width="300" style="margin-right:10px;" />
   <img src="images/photo2.png" alt="Photo 2" width="300" />
 </p>
 
