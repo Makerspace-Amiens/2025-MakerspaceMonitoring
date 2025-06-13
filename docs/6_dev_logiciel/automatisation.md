@@ -31,7 +31,7 @@ Ce scénario simple illustre bien comment la domotique peut être utilisée **po
 
 ---
 <p align="center">
-  <img src="images/logique.png" alt="Photo 1" width="500"/>
+  <img src="docs/images/logique.png" alt="Photo 1" width="500"/>
 </p>
 
 ## ⚙️ Mise en place de l’automatisation dans OpenHab
