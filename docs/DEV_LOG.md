@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 6. 💻 Développement logiciel
+title: 7. 💻 Développement logiciel
 nav_order: 7
 ---
 
