@@ -2,7 +2,7 @@
 layout: default
 title: 🔌Programmation des ESP32 avec Tasmota
 parent: 6. Développement logiciel
-nav_order: 30
+nav_order: 28
 ---
 
 ## 🔌 6.1 Programmation des ESP32 avec Tasmota
