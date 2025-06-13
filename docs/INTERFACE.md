@@ -31,6 +31,7 @@ OpenHab propose une variété de composants graphiques pour enrichir l'interface
 L'objectif principal de cette interface est de fournir une expérience utilisateur intuitive, contextualisée et visuellement claire, afin que chaque utilisateur puisse rapidement saisir l'état global du MakerSpace, pièce par pièce.
 
 <img src="https://community-openhab-org.s3.dualstack.eu-central-1.amazonaws.com/original/3X/6/b/6b38520b5b69446c340823eee02aae8ba7c8815c.png" width="600"/>
+
 Example de dashboard.
 
 ---
