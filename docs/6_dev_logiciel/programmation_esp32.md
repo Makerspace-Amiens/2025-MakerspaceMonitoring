@@ -14,7 +14,7 @@ nav_order: 30
 ### 🔧 Microcontrôleur utilisé : XIAO ESP32-C3 (Seeed Studio)
 
 Le microcontrôleur **XIAO ESP32-C3** est compact, économique, doté d’une connectivité Wi-Fi, et parfaitement adapté à l’environnement Tasmota. Il est alimenté via **USB-C**, ce qui facilite la configuration initiale depuis un ordinateur.
-
+![Texte alternatif](https://files.seeedstudio.com/wiki/XIAO_WiFi/board-pic.png)
 ---
 
 ### 💻 Installation de Tasmota
