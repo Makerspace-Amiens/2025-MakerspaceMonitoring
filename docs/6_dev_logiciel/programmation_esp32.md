@@ -70,7 +70,7 @@ Une fois connecté, le module rejoint le réseau local et se voit attribuer une 
 
 ---
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4b3f7a12-bde5-4e52-b964-d5abf5f9e2b6](https://www.google.com/url?sa=i&url=https%3A%2F%2Fiotdesignpro.com%2Fprojects%2Fgetting-started-with-tasmota-on-esp8266-01-integrate-tasmota-with-home-assistant&psig=AOvVaw3AF-wCquti5FTLKFt137z0&ust=1749924790801000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNCw1YCA740DFQAAAAAdAAAAABAj" alt="Schéma de câblage ESP32-C3" width="200"/>
+  <img src="[https://github.com/user-attachments/assets/4b3f7a12-bde5-4e52-b964-d5abf5f9e2b6](https://www.google.com/url?sa=i&url=https%3A%2F%2Fiotdesignpro.com%2Fprojects%2Fgetting-started-with-tasmota-on-esp8266-01-integrate-tasmota-with-home-assistant&psig=AOvVaw3AF-wCquti5FTLKFt137z0&ust=1749924790801000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNCw1YCA740DFQAAAAAdAAAAABAj](https://www.domo-blog.fr/wp-content/uploads/2022/05/sonoff-dual-r3-menu-configuration-tasmota.png)" alt="Schéma de câblage ESP32-C3" width="200"/>
 </p>
 ### 📡 Configuration MQTT dans Tasmota
 
