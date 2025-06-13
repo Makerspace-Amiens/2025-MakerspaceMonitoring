@@ -298,10 +298,8 @@ Elle propose :
 
 ### 🏠 Exemple de dashboard créé sur OPENHAB pour la journée des projets
 
-<p align="center">
-  <img src="https://github.com/Makerspace-Amiens/2025-MakerspaceMonitoring/blob/14656262f42c777ede4f97549afc9d5a711c7fb6/docs/images/dashboard1.jpg" alt="Photo 1" width="500" style="margin-right:10px;" />
-  <img src="https://github.com/Makerspace-Amiens/2025-MakerspaceMonitoring/blob/039c82b16e3f3c2008b23c0846b4797ea3aa2b41/docs/images/dashboard2.jpg" alt="Photo 2" width="500" />
-</p>
+<img src="images/dashboard1.jpg" alt="Schéma"  width="500"/>
+<img src="images/dashboard2.jpg" alt="Schéma"  width="500"/>
 
 ## 🤖 6.3 Automatisations et scénarios
 
@@ -313,9 +311,7 @@ Par exemple, une automatisation peut :
 - couper le courant d’un outil s’il chauffe,
 - allumer l’éclairage automatiquement en fonction de la présence.
 
-<p align="center">
-<img src="https://github.com/Makerspace-Amiens/2025-MakerspaceMonitoring/blob/df6d88f7568e2ba98f36f25a1e9e663be03b1e49/docs/images/logique.png" alt="Photo 1" width="700" />
-  </p>
+<img src="images/logique.png" alt="Schéma"  width="700"/>
   
 ---
 ### 🎯 Objectif de cette démonstration
@@ -329,10 +325,7 @@ Pendant notre journée de présentation dans le **foyer**, nous avons mis en pla
 
 Ce scénario simple illustre bien comment la domotique peut être utilisée **pour surveiller et protéger l’environnement du MakerSpace**.
 
-
-<p align="center">
-  <img src="https://github.com/Makerspace-Amiens/2025-MakerspaceMonitoring/blob/e822c0252b3f18ec6eabcc6f2f99ae8e033ee5eb/docs/images/projetfoyer.jpg" alt="Photo 2" width="700" />
-</p>
+<img src="images/projetfoyer.jpg" alt="Schéma"  width="700"/>
 
 ---
 ## ⚙️ Mise en place de l’automatisation dans OpenHab
