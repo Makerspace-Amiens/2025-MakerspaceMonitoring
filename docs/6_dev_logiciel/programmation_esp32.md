@@ -26,18 +26,20 @@ Avant d'utiliser Tasmota, nous avons préparé les ESP32-C3 via un PC, avec les 
 Connexion de l'ESP32-C3 via USB, puis exécution de la commande suivante dans un terminal :
 
 ```bash
-esptool.py --chip esp32c3 erase_flash
+python -m esptool --chip esp32c3 --port COMx erase_flash
 ```
+
+> Remplacer `COMx` par le port série utilisé (ex : `COM3` sous Windows ou `/dev/ttyUSB0` sous Linux).
 
 #### 2. Flash du firmware Tasmota
 
-Après avoir effacé la mémoire, on installe la version de Tasmota adaptée (dans notre cas `tasmota32c3.bin`) :
+Après avoir effacé la mémoire, on installe la version de Tasmota adaptée (`tasmota32c3factory.bin`) :
 
 ```bash
-esptool.py --chip esp32c3 --baud 460800 write_flash -z 0x0 ~/firmwares/tasmota/tasmota32c3.bin
+python -m esptool --chip esp32c3 --port COMx write_flash -z 0x0 tasmota32c3factory.bin
 ```
 
-> 💡 Remplace le chemin `~/firmwares/tasmota/tasmota32c3.bin` par l’emplacement exact du fichier sur ton système.
+> 💡 Assurez-vous que le fichier `tasmota32c3factory.bin` se trouve dans le répertoire courant, ou indiquez le chemin complet.
 
 ---
 
