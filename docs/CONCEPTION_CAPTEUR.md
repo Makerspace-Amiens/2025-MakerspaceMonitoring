@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 4. 🌡️ Conception des capteurs connectés
+title: 5. 🌡️ Conception des capteurs connectés
 nav_order: 5
 ---
 
