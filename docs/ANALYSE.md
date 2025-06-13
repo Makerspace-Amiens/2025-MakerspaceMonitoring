@@ -47,10 +47,14 @@ Le système de monitoring domotique du MakerSpace a été conçu pour répondre 
 
 Nous avons planifié de surveiller les trois principales zones du MakerSpace : le PrinterLAB, qui est équipé d'imprimantes 3D, le MecaLAB, comprenant une découpeuse laser et un atelier de bricolage, et enfin la salle robotique dédiée aux activités de robotique.
 
+## <img src="images/printerlab.png" alt="Schéma"  width="350"/>
+
 1. **🖨️ PrinterLAB** :
    - Surveillance de l'humidité
    - Contrôle de la température
    - Mesure de la qualité de l’air
+
+## <img src="images/mecalab.png" alt="Schéma"  width="350"/>
 
 2. **🔧 MecaLAB** :
    - Surveillance de l'humidité
@@ -58,7 +62,16 @@ Nous avons planifié de surveiller les trois principales zones du MakerSpace : l
    - Mesure de la qualité de l’air
    - Mise en place d'un système d'automatisation : extinction automatique des équipements tels que la découpeuse laser pour des raisons de sécurité.
 
+## <img src="images/salle robotique.png" alt="Schéma"  width="350"/>
+
 3. **🤖 Salle robotique** :
+   - Surveillance de l'humidité
+   - Contrôle de la température
+   - Mesure de la qualité de l’air
+  
+## <img src="images/medialab.png" alt="Schéma"  width="350"/>
+
+4. **🎧 MediaLAB** :
    - Surveillance de l'humidité
    - Contrôle de la température
    - Mesure de la qualité de l’air
