@@ -10,13 +10,13 @@ L'installation des équipements physiques dans le MakerSpace a été soumise à 
 
 Pour le support de la tablette, un système de charnière a été conçu pour la Samsung Galaxy Tab S6 Lite, fixé à une poutre en bois pour permettre le pivotement de la tablette. Cependant, le poids de la tablette s'est avéré trop important, causant une instabilité. Par conséquent, un support mural fixe plus robuste a été installé pour un usage quotidien optimal.
 
-<img src="images/model.png" width="600"/>
+<img src="images/model.png" width="400"/>
 Premier modèle venant se fixer à la charnière.
-<img src="images/model2.png" width="600"/>
+<img src="images/model2.png" width="400"/>
 Charnière.
 
-<img src="images/model3.png" width="600"/>
-<img src="images/support_mural.png" width="300"/>
+<img src="images/model3.png" width="400"/>
+<img src="images/support_mural.png" width="250"/>
 Voici le support final. Il vient se fixer au mur, un cadre en bois permet de maintenir la tablette et un antivol pour le chargeur est présent.
 
 En ce qui concerne l'affichage via le Raspberry Pi 3, un support imprimé en PLA conforme à la norme VESA a été utilisé pour fixer solidement l'écran HDMI à l'appareil, permettant la dissimulation de la Raspberry Pi et assurant une ventilation adéquate. Ce point d'affichage fixe et autonome est configuré pour afficher en plein écran le tableau de bord du serveur domotique.
