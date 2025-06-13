@@ -168,7 +168,7 @@ Elle propose :
 
 ---
 
-### 6️⃣ Exemple de dashboard créé sur OPENHAB pour la journée des projets
+### 🏠 Exemple de dashboard créé sur OPENHAB pour la journée des projets
 
 <p align="center">
   <img src="https://github.com/Makerspace-Amiens/2025-MakerspaceMonitoring/blob/14656262f42c777ede4f97549afc9d5a711c7fb6/docs/images/dashboard1.jpg" alt="Photo 1" width="500" style="margin-right:10px;" />
