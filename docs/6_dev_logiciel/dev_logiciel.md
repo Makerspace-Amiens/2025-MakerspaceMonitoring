@@ -34,20 +34,8 @@ On explique nos règles domotiques (en YAML) et comment elles réagissent en tem
 
 ---
 
-### 🧪 [6.4 Tests et validation](6_4_tests_validation.md)
-✅ Tests unitaires sur les modules ESP32C3
-🕵️ Vérifications des scénarios d’automatisation  
-🗂️ Logs, retours d’erreur, et ajustements.
 
----
 
-## 🎥 En action (facultatif)
-
-> 💡 Une vidéo ou capture du dashboard peut être ajoutée ici pour illustrer comment le système fonctionne en conditions réelles.  
-> Par exemple :  
-> ![Aperçu Dashboard Home Assistant](../assets/dashboard_preview.png)
-
----
 
 🧑‍💻 **Code source dispo ici :** [🔗 GitHub du projet](https://github.com/tonrepo)
 
