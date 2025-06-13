@@ -1,7 +1,7 @@
 ---
 layout: home
 nav_order: 1
-title: 🏡 Accueil
+title: 1. 🏡 Accueil
 ---
 
 # Monitoring du MakerSpace
