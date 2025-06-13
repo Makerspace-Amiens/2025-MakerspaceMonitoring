@@ -63,8 +63,25 @@ C'est dans cette section que l'on va assigner une empreinte a un composant élec
 Une empreinte est une description physique et graphique d’un composant électronique, conçue pour le placement sur un circuit imprimé (PCB). Elle décrit la forme, la taille et la position des zones de soudure (pastilles), les trous, et parfois d’autres éléments mécaniques.
 
 
+Une fois les composants placés avec leurs empreintes, il faut maintenant faire les liens entre les composants. C'est l'étape du routage. Le routage (ou routing en anglais) est l'étape de conception dans laquelle on dessine les pistes de cuivre qui vont relier les broches des composants électroniques selon le schéma électrique que l’on a défini auparavant.
 
+Il s’agit de transformer un schéma logique (schéma électrique) en un schéma physique (circuit imprimé) fonctionnel, où les connexions ne sont plus symboliques mais bien géométriquement définies sur la carte.
 
+Nous sommes donc passé sur la partie PCB Editor, une fois la partie Eeschéma terminé.
 
+![image](https://github.com/user-attachments/assets/0dbb77e8-6e0e-4c66-9865-f2d269a63e35)
+
+Ici, on peut apercevoir que l'étape du routage a bienété réaliséet que le plan de masse (contour rouge autour de la carte) a bien été ajouté.
+Le plan de masse est une grande surface de cuivre connectée au GND (masse) de ton circuit. Il sert à réduire les interférences électromagnétiques et à garantir un bon retour de courant.
+Il améliore aussi la stabilité des tensions et facilite le routage des masses. On l'étend souvent sur toute une couche de la PCB (surtout pour les cartes à 2 ou 4 couches).
+
+KiCad est aujourd’hui l’un des logiciels de conception de PCB les plus complets et accessibles. Entièrement open source, il offre une alternative sérieuse aux logiciels propriétaires tout en restant gratuit, ce qui en fait un outil très prisé aussi bien par les étudiants que par les professionnels de l’électronique.
+Grâce à ses modules bien structurés – comme Eeschema pour la création des schémas électriques et Pcbnew pour la conception du circuit imprimé – KiCad permet de couvrir toutes les étapes d’un projet électronique. L'utilisateur peut ainsi passer de l'idée à un design prêt à être fabriqué, avec une grande précision.
+
+Le logiciel permet aussi une personnalisation poussée des empreintes, la gestion multi-feuilles pour les projets complexes, la création de plans de masse, le contrôle des règles de design (DRC), ainsi qu'une visualisation 3D du circuit pour anticiper l'encombrement physique et la disposition des composants.
+
+KiCad est également soutenu par une communauté active et une documentation abondante, ce qui facilite l’apprentissage et la résolution de problèmes. Son développement régulier permet l’ajout constant de nouvelles fonctionnalités, rendant l’outil toujours plus performant.
+
+En somme, KiCad se révèle être un environnement de développement fiable et robuste pour la conception de circuits imprimés, alliant flexibilité, puissance et accessibilité à tous les niveaux.
 
 ---
