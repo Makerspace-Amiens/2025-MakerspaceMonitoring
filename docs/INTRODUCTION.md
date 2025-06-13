@@ -14,6 +14,8 @@ Ce projet a pour objectif de remédier à cette lacune en mettant en place un sy
 
 La domotique désigne l’utilisation de technologies pour automatiser et contrôler les systèmes et équipements d’un espace, tels que l’éclairage, le chauffage ou la gestion de l’énergie, souvent via des dispositifs connectés.
 
+## <img src="images/Monitoring.png" alt="Schéma"  width="350"/>
+
 ---
 
 # 🎯 Objectifs
