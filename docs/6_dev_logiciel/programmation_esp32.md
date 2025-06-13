@@ -70,7 +70,7 @@ Une fois connecté, le module rejoint le réseau local et se voit attribuer une 
 
 ---
 <p align="center">
-  <img src="https://www.domo-blog.fr/wp-content/uploads/2022/05/sonoff-dual-r3-menu-configuration-tasmota.png" alt="Schéma de câblage ESP32-C3" width="200"/>
+  <img src="https://www.domo-blog.fr/wp-content/uploads/2022/05/sonoff-dual-r3-menu-configuration-tasmota.png" alt="Schéma de câblage ESP32-C3" width="450"/>
 </p>
 ### 📡 Configuration MQTT dans Tasmota
 
