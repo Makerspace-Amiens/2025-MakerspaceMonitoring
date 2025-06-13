@@ -17,7 +17,9 @@ Par exemple, une automatisation peut :
 - allumer l’éclairage automatiquement en fonction de la présence.
 
 ---
-
+<p align="center">
+<img src="https://github.com/Makerspace-Amiens/2025-MakerspaceMonitoring/blob/df6d88f7568e2ba98f36f25a1e9e663be03b1e49/docs/images/logique.png" alt="Photo 1" width="700" />
+  </p>
 ### 🎯 Objectif de cette démonstration
 
 Pendant notre journée de présentation dans le **foyer**, nous avons mis en place une **démo de sécurité thermique** afin de montrer en pratique l’utilité du **monitoring intelligent**.
@@ -31,7 +33,6 @@ Ce scénario simple illustre bien comment la domotique peut être utilisée **po
 
 ---
 <p align="center">
-  <img src="https://github.com/Makerspace-Amiens/2025-MakerspaceMonitoring/blob/df6d88f7568e2ba98f36f25a1e9e663be03b1e49/docs/images/logique.png" alt="Photo 1" width="700" style="margin-right:10px;" />
   <img src="https://github.com/Makerspace-Amiens/2025-MakerspaceMonitoring/blob/e822c0252b3f18ec6eabcc6f2f99ae8e033ee5eb/docs/images/projetfoyer.jpg" alt="Photo 2" width="700" />
 </p>
 ## ⚙️ Mise en place de l’automatisation dans OpenHab
