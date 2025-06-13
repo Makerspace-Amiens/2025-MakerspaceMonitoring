@@ -81,7 +81,9 @@ Accédez à l’interface Tasmota via l’IP attribuée, puis allez dans `Config
 - **Client** : `esp32c3-capteur` (nom unique)
 - **Topic** : `capteur`
 - **User / Password** : *(laisser vide si non requis)*
-
+<p align="center">
+  <img src="https://iotdesignpro.com/sites/default/files/inline-images/Configure-MQTT.png" alt="Schéma de câblage ESP32-C3" width="450"/>
+</p>
 ---
 
 ### 📎 Affectation des capteurs sur les GPIO
