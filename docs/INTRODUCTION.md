@@ -43,34 +43,31 @@ Enfin, le MakerSpace est un outil pédagogique important pour la formation des �
 
 # 📚 Organisation du rapport
 
-1. **Introduction**  
+2. 📜 [**Introduction**](INTRODUCTION.md)  
 L'introduction a pour objectif de présenter le projet "Monitoring du MakerSpace", de définir ses objectifs, ainsi que de situer le contexte et la portée du travail réalisé dans le cadre de cette étude.
 
-2. **Analyse des besoins et cahier des charges**  
+3. 📝 [**Analyse des besoins et cahier des charges**](ANALYSE.md)    
 Cette section expose les besoins fonctionnels et techniques du projet, les contraintes à respecter, ainsi que les profils des utilisateurs visés et leurs attentes.
 
-3. **Étude des solutions domotiques open-source**  
+4. 🧰 [**Étude des solutions domotiques open-source**](ETUDE.md)    
 Cette partie révèle les résultats de l'analyse des solutions domotiques open-source testées, en incluant un tableau comparatif des critères tels que la compatibilité, l'ergonomie, et la documentation.
 
-4. **Conception des capteurs connectés**  
+5. 🌡️ [**Conception des capteurs connectés**](CONCEPTION_CAPTEUR.md)  
 Un point est fait sur le choix des capteurs et du microcontrôleur (ESP32), avec une présentation de l'architecture matérielle et des considérations pratiques d'intégration.
 
-5. **Communication et interconnexion**  
+6. 📡 [**Communication et interconnexion**](COMMUNICATION.md)  
 Cette section détaille les protocoles de communication utilisés pour l'intégration des capteurs au système domotique, ainsi que les aspects liés à la sécurité et à la fiabilité.
 
-6. **Développement logiciel**  
+7. 💻 [**Développement logiciel**](DEV_LOG.md)  
 Une explication précise est donnée sur le développement du programme pour les ESP32, la configuration de la solution domotique, ainsi que les procédures d'automatisation et de tests unitaires.
 
-7. **Interface de visualisation et affichage**  
+8. 🧩 [**Interface de visualisation et affichage**](INTERFACE.md)    
 La conception de l'interface utilisateur pour l'affichage des données de monitoring est abordée, en mettant en avant les technologies utilisées et l'ergonomie.
 
-8. **Déploiement dans le MakerSpace**  
+9. 🏗️ [**Déploiement dans le MakerSpace**](DEPLOIEMENT.md)  
 Il est question de l'installation des capteurs et des écrans dans le MakerSpace, des tests effectués sur place, des ajustements nécessaires et des retours des utilisateurs.
 
-9. **Bilan et perspectives**  
+10. 📊 [**Bilan et perspectives**](BILAN.md)   
 Un bilan est dressé, mettant en lumière les succès et les obstacles rencontrés, les leçons apprises et les pistes d'amélioration envisagées pour le futur développement du système.
-
-10. **Annexes**  
-En annexe se trouvent les schémas électroniques, le code source, les logs et toute documentation technique supplémentaire pertinente.
 
 ---
